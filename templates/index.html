@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload</title>
+</head>
+<body>
+    <h1>South Fayette Advisory Generation Program</h1>
+    <p>Upload a CSV file to start the generation process.</p>
+    <p>Make sure the format of the csv file does not change from year to ear (e.i the column orders)</p>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" id="file" name="file" accept=".csv" required>
+        <br><br>
+        <button type="submit">Start Generation</button>
+    </form>
+</body>
+</html>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background-color: #DEFFD0;
+    }
+    form {
+        margin: 0 auto;
+        width: 50%;
+    }
+    input[type="file"] {
+        margin: 10px 0;
+    }
+    button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        border-radius: 100%;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    input[type="file"] {
+  position: relative;
+}
+
+input[type="file"]::file-selector-button {
+  width: 136px;
+  color: transparent;
+}
+
+/* Faked label styles and icon */
+input[type="file"]::before {
+  position: absolute;
+  pointer-events: none;
+  top: 10px;
+  left: 16px;
+  height: 20px;
+  width: 20px;
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230964B0'%3E%3Cpath d='M18 15v3H6v-3H4v3c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-3h-2zM7 9l1.41 1.41L11 7.83V16h2V7.83l2.59 2.58L17 9l-5-5-5 5z'/%3E%3C/svg%3E");
+}
+
+input[type="file"]::after {
+  position: absolute;
+  pointer-events: none;
+  top: 11px;
+  left: 40px;
+  color: #0964b0;
+  content: "Upload File";
+}
+
+/* ------- From Step 1 ------- */
+
+/* file upload button */
+input[type="file"]::file-selector-button {
+  border-radius: 4px;
+  padding: 0 16px;
+  height: 40px;
+  cursor: pointer;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05);
+  margin-right: 16px;
+  transition: background-color 200ms;
+}
+
+/* file upload button hover state */
+input[type="file"]::file-selector-button:hover {
+  background-color: #f3f4f6;
+}
+
+/* file upload button active state */
+input[type="file"]::file-selector-button:active {
+  background-color: #e5e7eb;
+}
+
+</style>

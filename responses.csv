@@ -1,0 +1,781 @@
+Timestamp,lastName,firstName,grade,homeroomTeacher,yesOrNo,teachers
+10/24/2024 14:33:03,Anderson,Jewel,6th,Mr. West,No,"Mrs. Cremonese, Mrs. Kotts, Mr. Mannarino, Mrs. Perrott, Mr. Perrott, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/24/2024 14:33:34,Beinecke,Liam,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mr. Litwinovich, Mr. Mannarino, Mr. Rossi"
+10/24/2024 14:33:53,Cunningham,Lucius,6th,Ms. Bianco,No,"Mr. Bacco, Mr. Barnhart, Mr. Finnerty, Mr. Mannarino, Dr. Maurer, Mr. Picozzi, Mr. Richman, Mr. West"
+10/24/2024 14:34:15,Munkittrick,Ella,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mrs. M. Amato (Spanish), Mr. Bacco, Mrs. Cremonese, Dr. Crimone, Mrs. Horzempa, Mr. Mannarino, Mrs. Perrott"
+10/24/2024 14:34:39,Chichester,Colin,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mr. Litwinovich, Mr. Mannarino, Mr. Rossi"
+10/24/2024 14:35:46,Pillai,Thanish,6th,Mrs. Guiser,No,"Mrs. M. Amato (Spanish), Mrs. Donovan, Mr. Finnerty, Mrs. Guiser, Mr. Laughton, Mr. Ruffolo, Mrs. Shober, Mrs. Tupper"
+10/24/2024 14:37:52,Davis,Teagan,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. Clayton, Mrs. Cremonese, Mrs. Horzempa, Dr. Maurer, Mr. Ruffolo, Mrs. Thomas, Mr. Wazenegger"
+10/24/2024 14:37:56,Cloherty,Garret,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Mannarino, Mr. Rossi, Mr. Ruffolo, Mr. West, Mrs. Windisch"
+10/24/2024 14:38:05,Tarver,Tyler,6th,Ms. Bianco,No,"Mrs. M. Amato (Spanish), Mr. Bacco, Mr. Barnhart, Mrs.  Beinecke, Dr. Crimone, Mr. Finnerty, Mrs. Thomas, Mr. West"
+10/24/2024 14:38:26,Lunn,Grace,6th,Ms. Bianco,No,"Mr. Finnerty, Mr. Oney, Mr. Philipp, Mrs. Piccirilli, Mr. Richman, Mr. Rossi, Mr. Taylor, Mr. West"
+10/24/2024 14:38:37,Upchurch,Jake,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Mrs. Kress, Mrs. Lally, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:38:42,DiNinno,Luca,6th,Mrs. Windisch,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mrs.  Beinecke, Ms. Bianco, Mr. Finnerty, Mr. Picozzi, Mr. Rossi, Mr. West"
+10/24/2024 14:38:59,Platt,Colton,6th,Mrs. Brucker,No,"Mrs. B. Amato (6th grade), Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 14:39:29,Gullapalli,Karthikeya,6th,Mrs. Brucker,No,"Mr. Bacco, Mrs.  Beinecke, Ms. Bianco, Mr. Finnerty, Mr. Laughton, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 14:39:30,Joshi,Ahaan,6th,Ms. Bianco,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Ms. Bianco, Dr. Crimone, Mr. Finnerty, Mr. Hall, Mr. Rossi, Mr. West"
+10/24/2024 14:39:54,Alkamel,Ayyoub,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Dr. Crimone, Mr. Finnerty, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 14:40:12,Love,Caleb,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Mr. Litwinovich, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 14:40:13,Krishna ,Atharva,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mr. Barnhart, Ms. Bianco, Dr. Crimone, Mrs. Donovan, Mr. Finnerty, Mr. Taylor, Mr. West"
+10/24/2024 14:40:32,Lowery,Charlotte,6th,Mrs. Brucker,No,"Mrs. Brucker, Dr. Crimone, Mrs. Hendal, Mr. Laughton, Mrs. Perrott, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:40:38,Machi ,Kenadie ,6th,Mrs. Brucker,No,"Mrs. Brucker, Dr. Crimone, Mrs. Hendal, Mr. Laughton, Mrs. Perrott, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:41:39,Turosak,Lexi,6th,Mrs. Brucker,No,"Mr.  Becker, Mrs. Brucker, Mrs. Cremonese, Mrs. Guiser, Mrs. Perrott, Mr. Ruffolo, Mrs. Sisinni, Mrs. Windisch"
+10/24/2024 14:41:40,Astorino,Aiden,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Kruth, Mr. Rossi, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:41:47,Cahill,Callen,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Kruth, Mr. Rossi, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:41:55,Mizia,Reese,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mr. Bacco, Ms. Bianco, Mr. Finnerty, Mrs. Hendal, Mrs. Horzempa, Ms. Minnetti, Mrs. Perrott"
+10/24/2024 14:42:16,Rectenwald,Cruz,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Kruth, Mr. Rossi, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:42:27,Ciancetta,Alexander,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. Cremonese, Mr. Mannarino, Mr. Rossi, Mr. Ruffolo, Mrs. Thomas, Mr. West, Mrs. Windisch"
+10/24/2024 14:42:29,Sherudo,Dzimano,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mr. Finnerty, Mrs. Hendal, Mrs. Horzempa, Ms. Minnetti, Mrs. Perrott, Mr. West"
+10/24/2024 14:42:59,Drake,Jonah,6th,Ms. Bianco,No,"Mr. Barnhart, Mrs.  Beinecke, Ms. Bianco, Dr. Maurer, Mr. Philipp, Mrs. Pruss, Mr. Richman, Mr. Rossi"
+10/24/2024 14:43:07,Srivastava,Shreyansh,6th,Mrs. Windisch,No,"Mr. Bacco, Mrs. Brucker, Mrs. Cremonese, Mr. Ruffolo, Mrs. Thomas, Mrs. Wagner, Mr. Wazenegger, Mrs. Windisch"
+10/24/2024 14:43:42,Christoff,Christian,6th,Ms. Bianco,No,"Mr. Barnhart, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Richman, Mr. Ruffolo, Mr. West"
+10/24/2024 14:43:47,Enas,Landen,6th,Mrs. Windisch,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mrs.  Beinecke, Mr. Finnerty, Mr. Mannarino, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 14:44:12,Parmar,Nilay,6th,Mrs. Windisch,No,"Mrs. Brucker, Mr. Finnerty, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West, Mrs. Windisch"
+10/24/2024 14:44:17,Hetland,Crosby,6th,Mrs. Brucker,No,"Mr. Laughton, Ms. Minnetti, Mr. Ruffolo, Mrs. Thomas, Mrs. Wagner, Mr. Wazenegger, Mr. West, Mrs. Windisch"
+10/24/2024 14:44:44,Medvec,Victoria,6th,Mr. West,No,"Ms. Bianco, Mr. Laughton, Mr. Litwinovich, Mr. Mannarino, Mr. Patterson, Mr. Popovic, Mr. Ruffolo, Mrs. Shimkoski"
+10/24/2024 14:44:49,Brennan,Arya,6th,Mrs. Brucker,No,"Mrs. Brucker, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mr. Laughton, Ms. Minnetti, Mrs. Perrott, Mrs. Windisch"
+10/24/2024 14:44:52,Gujjula,Varenya,6th,Mr. West,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mrs. Gielata, Mrs. Guiser, Mrs. A. Hoffman (7th grade), Mrs. Sisinni, Mrs. Windisch"
+10/24/2024 14:44:53,Tiwana,Mariam,6th,Mr. West,No,"Mrs. Clayton, Mrs. Cremonese, Mrs. Frohliger, Mrs. Nix, Mr. Perrott, Mrs. Pruss, Mr. Wazenegger, Mr. West"
+10/24/2024 14:45:17,Schultz,Tristan,6th,Ms. Bianco,No,"Mrs. Austin, Ms. Bianco, Mrs. A. Hoffman (7th grade), Mrs. Lally, Mr. Mannarino, Ms. Minnetti, Mrs. Rebovich, Mrs. Windisch"
+10/24/2024 14:45:20,Sickafoose,Lexi,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs. Brucker, Mrs. Kress, Mrs. Lally, Mr. Perrott, Mr. Ruffolo, Mr. Wazenegger, Mrs. Windisch"
+10/24/2024 14:45:44,Seabright,Kellen,6th,Mrs. Guiser,No,"Mr. Barnhart, Mr. Finnerty, Ms. Minnetti, Mr. Philipp, Mr. Ruffolo, Mr. Wazenegger, Mr. West, Mrs. Windisch"
+10/24/2024 14:45:51,rectenwald,maddox,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Kruth, Mr. Rossi, Mrs. Thomas, Mrs. Windisch"
+10/24/2024 14:45:55,Tucker,Trindon,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Mr. Litwinovich, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 14:46:08,Charlesworth,Annabelle,6th,Mrs. Brucker,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mrs. Frohliger, Mrs. Hendal, Mrs. Perrott, Mrs. Thomas"
+10/24/2024 14:46:51,kavals ,guy ,6th,Mrs. Brucker,No,"Mr. Barnhart, Mrs. Brucker, Mr. Finnerty, Mr. Litwinovich, Mr. Mannarino, Mr. Rossi, Mr. Ruffolo, Mrs. Thomas"
+10/24/2024 14:46:57,Maldonado,Gianni,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Frohliger, Mrs. Kress, Ms. Minnetti, Mr. Ruffolo, Mrs. Tupper, Mrs. Wagner"
+10/24/2024 14:47:24,Slater,Marley,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Guiser, Mrs. Harris, Mrs. Hendal, Mrs. Nagel, Mrs. Perrott, Mrs. Sisinni"
+10/24/2024 14:47:32,Spadafoa,Madison,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mr. Patterson, Mr. West, Mrs. Windisch"
+10/24/2024 14:47:32,Kunkel,Paige,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mr. Patterson, Mr. West, Mrs. Windisch"
+10/24/2024 14:48:28,Gandhi,Rushi,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Kruth, Mr. Mannarino, Ms. Minnetti, Mr. Rossi, Mr. West"
+10/24/2024 14:48:43,Akinyemi,fefe,6th,Mrs. Brucker,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mrs. Clayton, Mr. Finnerty, Mr. Kruth, Mrs. Thomas, Mr. Wazenegger, Mrs. Windisch"
+10/24/2024 15:31:27,Schott,Emery,6th,Mr. West,No,"Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mrs. Pruss, Mr. Ruffolo"
+10/24/2024 16:13:34,Zebo,Speransina,6th,Mrs. Windisch,No,"Ms. Bianco, Mrs. Brucker, Mrs. Gielata, Mrs. Guiser, Mr. Laughton, Mr. Ruffolo, Mrs. Shober, Mrs. Windisch"
+10/24/2024 16:18:16,Lese,Freddie,6th,Mr. West,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Horzempa, Mrs. Kotts, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/24/2024 16:22:58,Yahya,Nasser,6th,Mrs. Guiser,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Mr. Rossi, Mr. West, Mrs. Windisch"
+10/24/2024 17:37:06,Mano,Natalie,6th,Mrs. Windisch,No,"Mrs. Beck, Ms. Bianco, Mrs. Brucker, Mrs. Guiser, Mrs. Horzempa, Ms. Minnetti, Mrs. Tupper, Mrs. Windisch"
+10/24/2024 18:21:52,Cuthbertson,Sophia,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. Horzempa, Dr. Maurer, Mrs. Perrott, Mrs. Shimkoski, Mrs. Thomas, Mr. West, Mrs. Windisch"
+10/24/2024 19:48:05,Welch,Julia,6th,Mrs. Shober,No,"Mrs. Beck, Mrs. Clayton, Mrs. Donovan, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Mrs. Shober, Mr. Wazenegger"
+10/25/2024 8:12:29,Potharlanka,Nyshita,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Kress, Ms. Minnetti, Mr. Philipp"
+10/25/2024 8:13:33,Davis,Ammie,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mrs. Cremonese, Dr. Crimone, Mrs. Hendal, Mrs. Perrott, Mrs. Tupper, Mr. West, Mrs. Windisch"
+10/25/2024 8:15:22,Halder,Emma,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Hendal, Mr. Laughton, Mr. Litwinovich, Mr. Ruffolo, Mrs. Thomas, Mrs. Tupper, Mrs. Windisch"
+10/25/2024 8:15:32,Zini,Liliana,6th,Ms. Bianco,No,"Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Gielata, Mrs. Goedert, Mrs. Guiser, Mr. Mannarino"
+10/25/2024 8:16:40,Doane,Nicholas,6th,Ms. Bianco,No,"Mrs. M. Amato (Spanish), Mr. Bacco, Mr. Barnhart, Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mr. Rossi, Mr. West"
+10/25/2024 8:17:53,Halder,Emma,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Hendal, Mr. Laughton, Mr. Litwinovich, Ms. Minnetti, Mr. Ruffolo, Mrs. Thomas, Mrs. Tupper"
+10/25/2024 8:21:56,Altavilla,Mia,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Cremonese, Mr. Finnerty, Mrs. Horzempa, Mr. Mannarino, Mrs. Perrott, Mr. Rossi"
+10/25/2024 8:22:07,Vogt,Alivia,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mr. Finnerty, Dr. Maurer, Mr. Rossi, Mr. West"
+10/25/2024 8:22:20,Rajesh,Ananya,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mrs. M. Amato (Spanish), Ms. Bianco, Mrs. Cremonese, Mr. Laughton, Ms. Minnetti, Mrs. Tupper, Mr. West"
+10/25/2024 8:24:53,Almehmmadi,Abdulelah,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mr.  Becker, Ms. Bianco, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mrs. Nix, Mr. Rossi"
+10/25/2024 8:25:46,Noland,Kinley,6th,Ms. Bianco,No,"Mrs. Fagan/Mrs. Vouvalis, Mrs. Frohliger, Mrs. Guiser, Mrs. Horzempa, Mrs. Kress, Ms. Minnetti, Mrs. Nagel, Mr. Wazenegger"
+10/25/2024 8:26:10,Altavilla,Mckenna ,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mrs. Beck, Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Frohliger, Mrs. Horzempa, Mrs. Perrott"
+10/25/2024 8:36:10,Orozbaktiea,Adelya,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Mrs. Beck, Ms. Bianco, Mrs. Donovan, Mr. Finnerty, Mrs. Horzempa, Mr. Kruth, Mrs. Nix"
+10/25/2024 10:14:21,Movvala,Yuvan,6th,Mrs. Guiser,No,"Mrs. M. Amato (Spanish), Ms. Bianco, Mr. Finnerty, Mr. Laughton, Ms. Minnetti, Mr. Richman, Mr. Ruffolo, Mr. West"
+10/25/2024 14:15:21,Kuhn,Carmella,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. Clayton, Mr. Finnerty, Mrs. Hendal, Mr. Rossi, Mr. Ruffolo, Mrs. Wagner, Mrs. Windisch"
+10/25/2024 14:19:59,Whigham,Brynn,6th,Mrs. Windisch,No,"Mrs. Brucker, Dr. Crimone, Mr. Finnerty, Mrs. Horzempa, Ms. Minnetti, Mrs. Perrott, Mr. Ruffolo, Mrs. Windisch"
+10/25/2024 14:28:19,Stumph,Rylynn,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Dr. Maurer, Mrs. Nagel, Mr. West"
+10/25/2024 14:28:31,Dantry,Hayden,6th,Mr. Ruffolo,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mrs. Brucker, Dr. Crimone, Mrs. Horzempa, Mrs. Lally, Mr. Ruffolo, Mrs. Windisch"
+10/25/2024 14:28:51,Jarnagin,Mason,6th,Mrs. Amato,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Ms. Bianco, Mrs. Cremonese, Mrs. Kent, Mr. Laughton, Mr. Perrott, Mr. West"
+10/25/2024 14:29:48,Wall,Taylor,6th,Mrs. Brucker,No,"Mrs. Brucker, Mr. Mannarino, Dr. Maurer, Mrs. Perrott, Mr. Perrott, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/25/2024 14:29:49,Martin,Cullen,6th,Mr. Laughton,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Guiser, Mr. Kruth, Mr. Laughton, Mr. Mannarino, Ms. Minnetti"
+10/25/2024 14:29:50,McElligott,Cooper,6th,Mr. Laughton,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Guiser, Mr. Kruth, Mr. Laughton, Mr. Mannarino, Ms. Minnetti"
+10/25/2024 14:30:10,Barber,Mason,6th,Mr. Ruffolo,No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Horzempa, Mr. Rossi, Mr. Ruffolo, Mrs. Windisch"
+10/25/2024 14:30:51,Vodnala,Maanvit,6th,Mr. Laughton,No,"Mr. Finnerty, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Ms. Minnetti, Mr. Rossi, Mrs. Shober, Mr. West"
+10/25/2024 14:31:11,chollar,liam,6th,Mr. Laughton,No,"Mrs. Cremonese, Mrs. Guiser, Mrs. Horzempa, Mr. Kruth, Mr. Laughton, Mr. Litwinovich, Mr. Mannarino, Mr. Rossi"
+10/25/2024 14:31:22,Ackermann,Bryson,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Mrs.  Beinecke, Ms. Bianco, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mr. Finnerty, Mr. Rossi, Mr. West"
+10/25/2024 14:31:27,Maguire,Hick,6th,Mrs. Brucker,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mr. Richman, Mr. Rossi, Mr. West"
+10/25/2024 14:31:58,Pindel,caison,6th,"Mrs. Brucker, Mr. West",No,"Mr. Bacco, Mrs. Brucker, Mr. Finnerty, Mrs. Kress, Ms. Minnetti, Mrs. Nagel, Mr. Patterson, Mr. West"
+10/25/2024 14:32:25,Horzempa,Hannah,6th,Mr. Ruffolo,No,"Mrs. Austin, Mr. Barnhart, Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Mr. Kruth, Mr. Picozzi, Mr. Wazenegger"
+10/25/2024 14:32:25,carmichael,chase,6th,Mr. Ruffolo,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mr. Kruth, Mr. Laughton, Mr. Rossi, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/25/2024 14:32:35,Duchess,Maxwell,6th,Mrs. Amato,No,"Mr. Barnhart, Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Ms. Minnetti, Mrs. Perrott, Mr. Rossi, Mr. West"
+10/25/2024 14:32:57,Kresak,Zoey,6th,Mr. West,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Kress, Mr. Mannarino, Ms. Minnetti, Mrs. Pruss, Mr. Wazenegger, Mr. West"
+10/25/2024 14:33:09,Darien,Scholar,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Horzempa, Mr. Laughton, Ms. Minnetti, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/25/2024 14:33:14,O'Mahoney,Skylar,6th,Mr. Laughton,No,"Mrs. M. Amato (Spanish), Mr. Finnerty, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mrs. Perrott, Mrs. Shober"
+10/25/2024 14:33:39,Pitta,Shreyank,6th,Mr. Ruffolo,No,"Mrs. M. Amato (Spanish), Mrs. Brucker, Mrs. Clayton, Dr. Crimone, Mr. Finnerty, Mr. Rossi, Mr. Ruffolo, Mrs. Tupper"
+10/25/2024 14:33:43,chollar,liam,6th,Mr. Laughton,No,"Mr. Finnerty, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Mr. Litwinovich, Ms. Minnetti, Mr. Ruffolo, Mr. West"
+10/25/2024 14:33:44,Morally,Will,6th,Mr. Laughton,No,"Mr. Barnhart, Ms. Bianco, Mrs. Cremonese, Mrs. Guiser, Mr. Kruth, Mr. Laughton, Ms. Minnetti, Mr. Rossi"
+10/25/2024 14:33:52,Wright,Alexandra,6th,Mr. Laughton,No,"Mr. Barnhart, Dr. Crimone, Mr. Laughton, Mr. Mannarino, Ms. Minnetti, Mrs. Shober, Mrs. Wagner"
+10/25/2024 14:33:54,Balistrieri,Sophia,6th,Mr. Ruffolo,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. Horzempa, Dr. Maurer, Ms. Minnetti, Mrs. Thomas, Mr. West"
+10/25/2024 14:34:05,Frazier,Violet,6th,Mr. Ruffolo,No,"Mrs. Brucker, Mrs. Horzempa, Mrs. Kotts, Mrs. Lally, Mrs. Pruss, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/25/2024 14:34:15,Small,Gavin,6th,Mr. Ruffolo,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Horzempa, Mr. Rossi, Mr. Ruffolo, Mr. West, Mrs. Windisch"
+10/25/2024 14:34:15,Stewart,Piper,6th,Mrs. Amato,No,"Mr.  Becker, Mr. Finnerty, Mrs. Guiser, Mrs. Horzempa, Mrs. Lally, Mr. Mannarino, Mrs. Perrott, Mr. Wazenegger"
+10/25/2024 14:34:17,Gopani,Shlok,6th,Ms. Pruss,No,"Mrs.  Beinecke, Mrs. Kotts, Mrs. Kress, Mr. Laughton, Mrs. Pruss, Mrs. Thomas, Mr. West, Mrs. Windisch"
+10/25/2024 14:34:24,Curigliano,Jacob,6th,Mrs. Amato,No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Clayton, Dr. Crimone, Mr. Finnerty, Mrs. Frohliger, Mr. Kruth, Mr. Rossi"
+10/25/2024 14:34:30,Segura,Claira,6th,"Mrs. Brucker, Mr. Ruffolo, Mrs. Windisch",No,"Mrs. B. Amato (6th grade), Mrs. Austin, Mrs. Brucker, Dr. Crimone, Mr. Finnerty, Mrs. Guiser, Mrs. Thomas, Mrs. Windisch"
+10/25/2024 14:34:38,Mahesh,Mantra,6th,Mr. Laughton,No,"Dr. Crimone, Mrs. Guiser, Mrs. Lally, Mr. Laughton, Ms. Minnetti, Mrs. Shober, Mrs. Tupper, Mr. Wazenegger"
+10/25/2024 14:34:47,Suvarna,Yashas,6th,Ms. Pruss,No,"Mrs. Beck, Mr. Laughton, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/25/2024 14:35:06,Smith,Charlie,6th,Mrs. Amato,No,"Mr. Barnhart, Ms. Bianco, Mrs. Cremonese, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mr. Taylor, Mrs. Tupper"
+10/25/2024 14:35:17,Kaercher,Brynn,6th,Mrs. Amato,No,"Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Mannarino, Mr. Oney, Mr. Patterson, Mr. Richman, Mr. Ruffolo, Mr. West"
+10/25/2024 14:36:01,Kirsch,Sabrina,6th,Ms. Pruss,No,"Mr. Bacco, Mr. Barnhart, Dr. Crimone, Mr. Finnerty, Mrs. Hendal, Mr. Litwinovich, Mr. Mannarino, Mr. West"
+10/25/2024 14:36:25,Gruntz,Xander,6th,Mr. West,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Horzempa, Mrs. Kent, Mrs. Pruss, Mr. Rossi, Mrs. Thomas, Mr. West"
+10/25/2024 14:36:28,Patel,Soumya,6th,Mrs. Amato,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mrs. Canofari, Mrs. Clayton, Mrs. Donovan, Mrs. D. Hoffman (8th grade), Mr. Taylor"
+10/25/2024 14:36:52,Hermann,Aubrey,6th,Mrs. Amato,No,"Ms. Bianco, Dr. Crimone, Mr. Finnerty, Mrs. Hendal, Mr. Laughton, Ms. Minnetti, Mr. Ruffolo, Mrs. Windisch"
+10/25/2024 14:36:52,Simon,Micah,6th,Ms. Pruss,No,"Mr. Finnerty, Mrs. Kress, Mr. Laughton, Dr. Maurer, Mr. Ruffolo, Mrs. Thomas, Mr. West"
+10/25/2024 14:37:02,Manepalli,Aashi,6th,Mrs. Shober,No,"Mrs. M. Amato (Spanish), Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mr. Laughton, Mr. Mannarino, Mrs. Shober"
+10/25/2024 14:37:10,Kegler,Elijah,6th,Mrs. Guiser,No,"Mr. Finnerty, Mrs. Guiser, Mr. Kruth, Mr. Laughton, Mr. Picozzi, Mr. Ruffolo, Mrs. Tupper, Mrs. Windisch"
+10/25/2024 14:37:23,Galaganova,Milla,6th,Mr. Ruffolo,No,"Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Ms. Minnetti, Mr. Ruffolo, Mrs. Thomas, Mr. Wazenegger, Mrs. Windisch"
+10/25/2024 14:37:30,Benoit,Camryn,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Mr. Bacco, Ms. Bianco, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Ruffolo, Mr. West"
+10/25/2024 14:37:42,Narasimhan,Narasimhan,6th,Mrs. Shober,No,"Mr. Bacco, Mrs. Clayton, Dr. Crimone, Mrs. Donovan, Mr. Laughton, Mr. Rossi, Mrs. Tupper, Mrs. Wagner"
+10/25/2024 14:37:45,Turnbell,Alec,6th,Mrs. Kotts,No,"Mr. Finnerty, Mrs. Kotts, Mr. Kruth, Mr. Picozzi, Mrs. Pruss, Mr. Rossi, Mr. Wazenegger, Mr. West"
+10/25/2024 14:37:49,Makowski,Zachary,6th,Mr. Ruffolo,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mr. Finnerty, Mrs. Hendal, Mr. Kruth, Mr. Mannarino, Mr. Ruffolo, Mr. West"
+10/25/2024 14:37:50,Singla,Reeva,6th,Mrs. Shober,No,"Mrs. Brucker, Mr. Finnerty, Mrs. Hendal, Mrs. Horzempa, Mr. Mannarino, Mr. Ruffolo, Mrs. Tupper, Mrs. Windisch"
+10/25/2024 14:38:10,Mount,Max,6th,Mr. Ruffolo,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Laughton, Mr. Mannarino, Mr. Richman, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/25/2024 14:38:14,Emanuel,Jasmine,6th,Ms. Pruss,No,"Mrs. Beck, Mrs. Hendal, Mrs. Kress, Mrs. Lally, Mrs. Perrott, Mrs. Pruss, Mrs. Thomas, Mr. West"
+10/25/2024 14:38:15,Ramsey Simmons ,Ava,6th,Ms. Pruss,No,"Mrs. Beck, Mrs. Hendal, Mrs. Kress, Mrs. Lally, Mrs. Perrott, Mrs. Pruss, Mrs. Thomas, Mr. West"
+10/25/2024 14:38:27,Gatti,Felix,6th,Mr. Ruffolo,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Kruth, Mr. Patterson, Mr. Rossi, Mrs. Tupper, Mr. West"
+10/25/2024 14:39:12,Ebel,Sophia,6th,Mr. Ruffolo,No,"Mrs. Brucker, Mrs. Clayton, Mrs. Frohliger, Mrs. Harris, Mrs. Hendal, Mr. Mannarino, Mr. Ruffolo, Mrs. Thomas"
+10/25/2024 14:39:12,Whitby,Wyatt,6th,Mrs. Amato,No,"Mr. Barnhart, Mr. Finnerty, Mr. Kruth, Mr. Laughton, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. West"
+10/25/2024 14:39:21,Behrens,Andrew,6th,Ms. Pruss,No,"Mrs. Beck, Mrs. Brucker, Mr. Finnerty, Mrs. Kress, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/25/2024 14:39:27,Doane,Nathan,6th,Mrs. Amato,No,"Mr. Barnhart, Mr.  Becker, Mrs. Clayton, Dr. Crimone, Mr. Finnerty, Mrs. Kent, Mrs. Kotts, Mr. Laughton"
+10/25/2024 14:39:41,Burnett,Reese,6th,Mr. Laughton,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Ms. Minnetti, Mrs. Perrott"
+10/25/2024 14:40:13,Namdev,Anay ,6th,Mrs. Shober,No,"Mr. Finnerty, Mrs. Guiser, Mrs. Hendal, Mr. Laughton, Mr. Mannarino, Ms. Minnetti, Mrs. Shober, Mr. West"
+10/25/2024 14:40:32,Lopez,Aerianna,6th,Ms. Pruss,No,"Mrs. Beck, Mrs. Goedert, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Kotts, Mr. Kruth, Mr. Laughton, Mr. West"
+10/25/2024 14:40:42,Smearman,Blake,6th,Mr. Ruffolo,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Picozzi, Mr. Popovic, Mr. Richman, Mr. Rossi, Mr. Wazenegger, Mr. West"
+10/25/2024 14:40:44,Lijo,Eric,6th,Ms. Pruss,No,"Mrs. Beck, Mr. Finnerty, Mrs. Kress, Mr. Laughton, Ms. Minnetti, Mrs. Pruss, Mrs. Tupper, Mr. West"
+10/25/2024 14:40:53,Barinova,Maya,6th,Ms. Pruss,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Kotts, Mr. Mannarino, Mrs. Nix, Mr. Patterson, Mrs. Pruss, Mr. West"
+10/25/2024 14:40:55,Kakadiya,Krish,6th,Mrs. Shober,No,"Mr. Barnhart, Mr.  Becker, Mr. Hall, Mr. Laughton, Dr. Maurer, Mr. Ruffolo, Mr. Taylor, Mr. West"
+10/25/2024 14:41:02,Robinson,Gabby,6th,Mr. Ruffolo,No,"Mrs. Brucker, Mrs. Frohliger, Mrs. Hendal, Mrs. Horzempa, Mrs. Lally, Mr. Mannarino, Ms. Minnetti, Mrs. Windisch"
+10/25/2024 14:41:07,Kiran,Siddharth,6th,Mrs. Shober,No,"Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Ms. Minnetti, Mr. Ruffolo, Mrs. Shober, Mr. West"
+10/25/2024 14:41:23,Key,Leighanna,6th,Mrs. Amato,No,"Ms. Bianco, Mrs. Hendal, Mrs. Horzempa, Mrs. Kress, Mr. Kruth, Mrs. Perrott, Mr. Rossi, Mr. Wazenegger"
+10/25/2024 14:41:24,Sainato,Gian,6th,Mr. Laughton,No,"Mr. Barnhart, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Perrott, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/25/2024 14:41:42,Kaminski,Jace,6th,Mr. Ruffolo,No,"Mr. Barnhart, Mr. Kruth, Mr. Litwinovich, Dr. Maurer, Mr. Perrott, Mr. Richman, Mr. Rossi, Mr. Taylor"
+10/25/2024 14:41:53,Bircan,Berat,6th,Mrs. Kotts,No,"Mr. Finnerty, Mrs. Frohliger, Mrs. Kotts, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mr. Wazenegger, Mr. West"
+10/25/2024 14:42:17,Riggio ,Austin,6th,Mr. Laughton,No,"Mr. Barnhart, Mrs. Donovan, Mr. Finnerty, Mrs. Guiser, Mr. Laughton, Ms. Minnetti, Mr. Perrott, Mrs. Shober"
+10/25/2024 14:42:28,Irvine,Keira,6th,Mr. Ruffolo,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Harris, Mr. Mannarino, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/25/2024 14:42:30,SCHWIENBERG,CONNOR ,6th,Ms. Pruss,No,"Mr. Barnhart, Mrs. Clayton, Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Perrott"
+10/25/2024 14:43:03,Kostuch,Luca,6th,Mr. Laughton,No,"Mr.  Becker, Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mr. Laughton, Mr. Litwinovich, Mr. West"
+10/25/2024 14:43:20,Mcpherson,sam,6th,Mr. Laughton,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Ms. Minnetti, Mr. Ruffolo, Mr. West"
+10/25/2024 14:43:39,Urso,Vinny,6th,Mrs. Amato,No,"Ms. Bianco, Mrs. Clayton, Mrs. Cremonese, Mr. Finnerty, Mr. Kruth, Mr. Laughton, Mr. Wazenegger, Mr. West"
+10/25/2024 14:43:41,Ibella,Bianca,6th,Ms. Pruss,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mrs. Horzempa, Mrs. Pruss, Mr. West, Mrs. Windisch"
+10/25/2024 14:43:43,miskarov,viera,6th,Mrs. Amato,No,"Mr. Bacco, Mrs. Hendal, Mrs. Horzempa, Mr. Oney, Mr. Patterson, Mr. Philipp, Mrs. Shimkoski, Mr. West"
+10/25/2024 14:43:47,Morris,Avery,6th,Ms. Pruss,No,"Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mrs. Horzempa, Mrs. Pruss, Mrs. Windisch"
+10/25/2024 14:43:59,Mahoney,Mason,6th,Mr. Ruffolo,No,"Mr. Bacco, Mrs. Hendal, Mr. Kruth, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West, Mrs. Windisch"
+10/25/2024 14:44:02,Joshi,Anushka,6th,Mr. Ruffolo,No,"Mrs. B. Amato (6th grade), Mrs. Beck, Mrs.  Beinecke, Mrs. Brucker, Mrs. Guiser, Mrs. Harris, Mr. Ruffolo, Mrs. Windisch"
+10/25/2024 14:44:17,Bhimavarapu,Sumedha,6th,Ms. Pruss,No,"Mr. Bacco, Mrs. Beck, Mrs. Cremonese, Mrs. Kotts, Mrs. Kress, Mrs. Pruss, Mrs. Tupper, Mr. West"
+10/25/2024 14:44:21,Mohamed,Sameer,6th,Mr. Ruffolo,No,"Mrs. Austin, Mrs. Brucker, Mrs. Fagan/Mrs. Vouvalis, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mrs. Thomas, Mrs. Windisch"
+10/25/2024 14:44:25,Patel,Tanvi,6th,Mr. Laughton,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Dr. Crimone, Mrs. Guiser, Mr. Laughton, Ms. Minnetti, Mr. Perrott, Mrs. Shober"
+10/25/2024 14:44:32,Dobis,Anthony,6th,Mrs. Kotts,No,"Mr. Barnhart, Mrs. Brucker, Dr. Crimone, Mr. Finnerty, Mr. Laughton, Mr. Oney, Mrs. Perrott, Mrs. Pruss"
+10/25/2024 14:44:35,Tarin,Maya,6th,Mr. Laughton,No,"Mrs. M. Amato (Spanish), Mr.  Becker, Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mrs. Gielata, Mrs. Hendal, Mrs. Perrott"
+10/25/2024 14:44:36,Rapp,Lauren,6th,Mr. Laughton,No,"Mrs. M. Amato (Spanish), Mr.  Becker, Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mrs. Gielata, Mrs. Hendal, Mrs. Perrott"
+10/25/2024 14:45:14,Marquis,Avery,6th,Ms. Pruss,No,"Mrs. Beck, Mrs. Cremonese, Mr. Finnerty, Mrs. Horzempa, Mrs. Kotts, Mrs. Kress, Mr. Laughton, Mrs. Pruss"
+10/25/2024 14:45:33,Brynn,Kaercher,6th,Mrs. Amato,No,"Mrs. A. Hoffman (7th grade), Mrs. D. Hoffman (8th grade), Mr. Oney, Mr. Patterson, Mr. Philipp, Mr. Richman, Mr. Ruffolo, Mr. West"
+10/25/2024 14:45:33,McElligott,Carson,6th,Mr. Laughton,No,"Mrs. B. Amato (6th grade), Mrs. Donovan, Mrs. Fagan/Mrs. Vouvalis, Mrs. Guiser, Mrs. Hendal, Mr. Laughton, Dr. Maurer, Mrs. Shober"
+10/25/2024 14:45:48,Smith,Charlie,6th,Mrs. Amato,No,"Mr. Barnhart, Ms. Bianco, Mrs. Cremonese, Mr. Laughton, Mr. Oney, Mr. Ruffolo, Mr. Taylor, Mrs. Tupper"
+10/25/2024 14:46:18,Rossero,Kendall,6th,Mrs. Kotts,No,"Mrs. Cremonese, Mrs. Fagan/Mrs. Vouvalis, Mrs. Kotts, Mr. Laughton, Mr. Litwinovich, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/25/2024 14:46:51,Stark,Brody,6th,Mrs. Shober,No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mr. Finnerty, Mr. Laughton, Ms. Minnetti, Mrs. Shober, Mr. Wazenegger, Mr. West"
+10/25/2024 14:46:59,Venkatesh,Shriram,6th,Mrs. Shober,No,"Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mr. Patterson, Mr. Perrott, Mr. Ruffolo, Mrs. Shober, Mr. West"
+10/25/2024 14:46:59,RAjesh,Anirudh,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mr. Kruth, Mr. Laughton, Ms. Minnetti, Mr. Patterson, Mr. Ruffolo, Mr. West"
+10/25/2024 14:47:00,Berg,Peter,6th,Mrs. Shober,No,"Mr. Finnerty, Mr. Laughton, Mr. Ruffolo, Mrs. Shober, Mr. Taylor, Mrs. Tupper, Mr. Wazenegger, Mr. West"
+10/25/2024 14:47:13,Famuagun,Rayo,6th,Mrs. Kotts,No,"Mrs. Beck, Mrs.  Beinecke, Ms. Bianco, Dr. Crimone, Mr. Finnerty, Mr. Laughton, Mrs. Perrott, Mrs. Pruss"
+10/25/2024 14:47:15,Caylor,Tyler,6th,Mrs. Amato,No,"Mr. Bacco, Mrs. Clayton, Mrs. Goedert, Mrs. Horzempa, Mr. Kruth, Ms. Minnetti, Mr. Oney, Mr. Wazenegger"
+10/25/2024 14:47:21,Champati,Ishika,6th,Mrs. Shober,No,"Mr. Barnhart, Mrs. Beck, Mrs.  Beinecke, Dr. Crimone, Mrs. Hendal, Ms. Minnetti, Mrs. Perrott, Mrs. Shober"
+10/25/2024 14:47:24,Machineni,Shreyas,6th,Mrs. Kotts,No,"Dr. Crimone, Mrs. Kotts, Mr. Laughton, Mrs. Pruss, Mr. Richman, Mr. Ruffolo, Mrs. Speakman, Mr. West"
+10/25/2024 14:47:42,Sahu,Anvita,6th,Mrs. Kotts,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Guiser, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mrs. Pruss, Mrs. Tupper"
+10/25/2024 14:47:42,Arun,Almas,6th,Mrs. Shober,No,"Mr. Barnhart, Mrs. Cremonese, Mrs. Guiser, Mr. Laughton, Mr. Mannarino, Mrs. Perrott, Mr. Perrott, Mrs. Shober"
+10/25/2024 14:47:52,Cali,Frankie,6th,Mr. Ruffolo,No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mr. Finnerty, Mr. Laughton, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/25/2024 14:47:55,Sage ,Tristan,6th,Mrs. Kotts,No,"Mr. Barnhart, Mrs. Kotts, Mr. Mannarino, Ms. Minnetti, Mr. Philipp, Mrs. Pruss, Mrs. Tupper, Mr. West"
+10/25/2024 14:48:26,Juluru,Veena,6th,Mrs. Shober,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Dr. Crimone, Mrs. Hendal, Mrs. Kress, Mr. Laughton"
+10/25/2024 14:48:43,Dobis,Anthony,6th,Mrs. Kotts,No,"Mr. Barnhart, Mrs. Brucker, Dr. Crimone, Mr. Finnerty, Mr. Laughton, Mr. Oney, Mrs. Perrott, Mrs. Pruss"
+10/25/2024 14:48:53,Milligan,Logan,6th,Ms. Pruss,No,"Mr. Barnhart, Mrs. Beck, Mrs. Kress, Mr. Laughton, Mr. Litwinovich, Ms. Minnetti, Mrs. Pruss, Mr. West"
+10/25/2024 14:49:00,Harris,Willow,6th,Mrs. Kotts,No,"Mr. Finnerty, Mrs. Frohliger, Mrs. Hendal, Mrs. Kotts, Mr. Litwinovich, Mr. Mannarino, Dr. Maurer, Mrs. Pruss"
+10/25/2024 14:49:17,Stoecklein,stephanie,6th,Mrs. Amato,No,"Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Ms. Minnetti, Mr. Ruffolo, Mrs. Thomas, Mr. Wazenegger, Mrs. Windisch"
+10/25/2024 14:49:22,Praveenkumar,Rithvik,6th,Mrs. Shober,No,"Mr.  Becker, Dr. Crimone, Mr. Laughton, Mr. Litwinovich, Dr. Maurer, Mr. Oney, Mr. West, Mrs. Windisch"
+10/25/2024 14:52:12,Peden,Madeleine,6th,Mrs. Shober,No,"Mrs. B. Amato (6th grade), Mrs. Beck, Mrs. Cremonese, Mr. Laughton, Ms. Minnetti, Mr. Perrott, Mrs. Shober"
+10/25/2024 14:52:14,Bircan,Berat,6th,Mrs. Kotts,No,"Mr. Finnerty, Mrs. Frohliger, Mrs. Kotts, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mr. Wazenegger, Mr. West"
+10/25/2024 15:39:07,Shah,Hriday,6th,Mrs. Shober,No,"Mrs. Beck, Mrs. Cremonese, Mrs. Guiser, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mr. Patterson, Mrs. Shober"
+10/25/2024 15:39:46,Liu,Jenny,6th,Mr. Laughton,No,"Mrs. M. Amato (Spanish), Ms. Bianco, Mrs. Clayton, Mrs. Guiser, Mrs. Harris, Mrs. Hendal, Mrs. Horzempa, Mrs. Kress"
+10/25/2024 15:42:49,pati,alankrita,6th,Mrs. Shober,No,"Mrs. Brucker, Mr. Finnerty, Mrs. Harris, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mr. Litwinovich, Mr. West"
+10/25/2024 15:44:16,Ajesh,Dheuva,6th,Mrs. Shober,No,"Mrs. Brucker, Mr. Finnerty, Mrs. Harris, Mrs. Hendal, Mr. Laughton, Mr. Litwinovich, Mr. Patterson, Mr. West"
+10/25/2024 15:44:16,Nandi,Anusha,6th,Mrs. Shober,No,"Mrs. Brucker, Mr. Finnerty, Mrs. Harris, Mrs. Hendal, Mr. Laughton, Mr. Litwinovich, Mr. Patterson, Mr. West"
+10/25/2024 15:51:11,Damodharan,Kanishka,6th,Mrs. Kotts,No,"Mrs. M. Amato (Spanish), Mrs. Cremonese, Mrs. Guiser, Mr. Laughton, Mr. Perrott, Mrs. Pruss, Mr. Ruffolo, Mr. West"
+10/25/2024 15:59:01,Murello,Gianna,6th,Mrs. Shober,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mrs. Perrott, Mrs. Shober"
+10/26/2024 20:20:01,Thomas,Serena,6th,Ms. Pruss,No,"Mr. Bacco, Mrs. Beck, Mrs. Cremonese, Mr. Finnerty, Ms. Minnetti, Mr. Perrott, Mr. Ruffolo, Mr. West"
+10/27/2024 16:16:33,Ramaprasad,Srushti,6th,Mrs. Shober,No,"Mrs. Beck, Mr. Finnerty, Mrs. Guiser, Mr. Laughton, Mr. Mannarino, Ms. Minnetti, Mrs. Shober, Mrs. Tupper"
+10/27/2024 16:53:43,Akgun,Afranur,6th,Mrs. Shober,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Dr. Crimone, Mrs. Guiser, Mrs. Nix, Mrs. Shober, Mrs. Tupper, Mrs. Windisch"
+10/27/2024 18:33:10,Vettorel,Darienne,6th,Mr. Ruffolo,No,"Mrs. Beck, Ms. Bianco, Mrs. Cremonese, Mrs. Harris, Mrs. Hendal, Mr. Mannarino, Mr. Patterson, Mrs. Pruss"
+10/27/2024 20:17:53,Thakkar,Aarush,6th,Mrs. Shober,No,"Mr. Barnhart, Mr.  Becker, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mr. Oney, Mr. Taylor, Mr. West"
+10/27/2024 21:42:31,Sagi,Laalitya,6th,Mrs. Shober,No,"Mr. Bacco, Mr. Barnhart, Mrs.  Beinecke, Mrs. Clayton, Dr. Crimone, Mrs. Hendal, Mrs. Kress, Mr. Laughton"
+10/27/2024 22:49:08,Jamadar,Ira,6th,Mrs. Kotts,No,"Mrs. Austin, Ms. Bianco, Mrs. Cremonese, Mrs. Fagan/Mrs. Vouvalis, Mrs. Lally, Mr. Laughton, Mrs. McCourt, Mrs. Pruss"
+10/28/2024 7:04:01,Ramakrishnan,Anushiya,6th,Mrs. Shober,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Mr. Hall, Mrs. Hendal, Mr. Laughton, Ms. Minnetti, Mrs. Pruss, Mrs. Shober"
+10/28/2024 8:09:37,Seto,Dylan,6th,Mr. Laughton,No,"Mrs. Horzempa, Mr. Kruth, Mr. Laughton, Mr. Mannarino, Mr. Rossi, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/28/2024 8:38:03,Sreekumar,Vishnu,6th,Mrs. Kotts,No,"Mrs. Kotts, Mrs. McCourt, Mr. Perrott, Mrs. Pruss, Mr. Ruffolo, Mrs. Shober, Mrs. Tupper, Mr. West"
+10/28/2024 8:38:10,Kundur ,Shayna ,6th,Mrs. Kotts,No,"Mrs. M. Amato (Spanish), Ms. Bianco, Mrs. Guiser, Mrs. Harris, Mrs. Hendal, Mrs. Horzempa, Mrs. Pruss, Mrs. Windisch"
+10/28/2024 8:38:13,Miller,Koda,6th,Mrs. Kotts,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mrs. Hendal, Mr. Patterson, Mrs. Pruss, Mr. West"
+10/28/2024 8:38:41,Machineni,Shreyas,6th,Mrs. Kotts,No,"Dr. Crimone, Mrs. Kotts, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mrs. Pruss, Mr. Richman, Mr. West"
+10/28/2024 8:39:34,Kozar,Brody,6th,Mr. West,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mrs. Horzempa, Mr. Perrott, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo"
+10/28/2024 8:39:42,Vettorel,Ethan,6th,Mrs. Kotts,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Kruth, Mr. Perrott, Mr. Ruffolo, Mr. West"
+10/28/2024 8:39:54,O'Brien,Declan,6th,Mrs. Kotts,No,"Mr. Barnhart, Mrs. Kotts, Dr. Maurer, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/28/2024 8:40:28,Muthukkaruppan,Mohan Kumar,6th,Mrs. Kotts,No,"Mr. Barnhart, Mr. Finnerty, Mrs. Kotts, Mr. Kruth, Ms. Minnetti, Mrs. Pruss, Mr. Wazenegger, Mr. West"
+10/28/2024 8:43:38,Lingam,Nihaarika,6th,Mrs. Kotts,No,"Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mr. Laughton, Mrs. Pruss, Mr. Wazenegger"
+10/28/2024 8:43:41,Kinger ,Ellie ,6th,Mrs. Kotts,No,"Ms. Bianco, Mrs. Brucker, Mrs. Guiser, Mrs. Hendal, Mrs. Kotts, Mrs. Perrott, Mrs. Pruss, Mrs. Windisch"
+10/28/2024 8:43:49,Sreekumar,Vishnu,6th,Mrs. Kotts,No,"Mrs. Kotts, Mr. Laughton, Mrs. McCourt, Mr. Perrott, Mrs. Pruss, Mrs. Shober, Mrs. Tupper, Mr. West"
+10/28/2024 8:45:20,Argotti,Oliver,6th,Mrs. Kotts,No,"Mr. Bacco, Mr.  Becker, Ms. Bianco, Mr. Litwinovich, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/28/2024 8:45:28,Prasanth,Devika,6th,Mrs. Kotts,No,"Mrs. M. Amato (Spanish), Ms. Bianco, Mrs. Guiser, Mrs. Harris, Mrs. Hendal, Mrs. Kress, Mrs. Pruss, Mrs. Tupper"
+10/28/2024 8:48:58,Narayan,Sasthra,6th,Mrs. Kotts,No,"Mrs. Beck, Mrs. Brucker, Mrs. Clayton, Dr. Crimone, Mrs. Hendal, Mrs. Kress, Mr. Mannarino, Mrs. Pruss"
+10/28/2024 8:53:07,Lewandowski,Kalianna,6th,Mrs. Kotts,No,"Mrs. Brucker, Mrs. Gielata, Mrs. Kotts, Mrs. Piccirilli, Mrs. Pruss, Mrs. Tupper, Mr. Wazenegger, Mr. West"
+10/28/2024 8:54:52,Taylor,Ashley,6th,Mrs. Kotts,No,"Mrs. Horzempa, Mrs. Kotts, Mrs. Lally, Mrs. McCourt, Mrs. Perrott, Mr. Perrott, Mrs. Pruss, Mrs. Thomas"
+10/28/2024 9:08:33,Barksdale,Ayla,6th,Ms. Pruss,No,"Mrs. B. Amato (6th grade), Mrs. Fagan/Mrs. Vouvalis, Mr. Finnerty, Mrs. Gielata, Mr. Mannarino, Mrs. McCourt, Ms. Minnetti, Mrs. Pruss"
+10/28/2024 9:10:08,Ritt,Sydney,6th,Ms. Pruss,No,"Mrs. B. Amato (6th grade), Mrs. Beck, Ms. Bianco, Mrs. Canofari, Mrs. Goedert, Mrs. Hendal, Mrs. D. Hoffman (8th grade), Mrs. Pruss"
+10/28/2024 9:15:02,Misner,Brekyn,6th,Ms. Pruss,No,"Mrs. Beck, Dr. Crimone, Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mrs. Kress,  Mr. West"
+10/28/2024 9:21:44,Movvala,Yuvan,6th,Mrs. Guiser,No,"Mrs. M. Amato (Spanish), Ms. Bianco, Dr. Crimone, Mr. Finnerty, Mr. Laughton, Mr. Richman, Mr. Ruffolo, Mr. West"
+10/28/2024 9:25:27,Kelly,Christian,6th,Mrs. Guiser,No,"Mrs. M. Amato (Spanish), Mrs. Fagan/Mrs. Vouvalis, Mr. Finnerty, Mrs. Guiser, Mrs. Lally, Mr. Laughton, Mrs. Shober, Mr. West"
+10/28/2024 9:25:38,Jordan,Danzel,6th,Mrs. Guiser,No,"Mr. Finnerty, Mrs. Guiser, Mr. Kruth, Mr. Laughton, Ms. Minnetti, Mr. Rossi, Mrs. Shober, Mr. West"
+10/28/2024 9:26:33,Sperry,Cameron,6th,Mrs. Guiser,No,"Mr. Bacco, Mr. Barnhart, Dr. Crimone, Mr. Finnerty, Mrs. Guiser, Mr. Laughton, Mr. Rossi, Mr. West"
+10/28/2024 9:26:47,Yalcin,Muhammed Efe,6th,Mrs. Guiser,No,"Mr. Finnerty, Mrs. Guiser, Mrs. Horzempa, Mr. Kruth, Mr. Laughton, Mrs. Nix, Mr. Rossi, Mrs. Shober"
+10/28/2024 9:27:10,Dick,Grayson,6th,Mrs. Guiser,No,"Mr. Barnhart, Mr. Finnerty, Mr. Laughton, Mr. Litwinovich, Dr. Maurer, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/28/2024 9:27:54,Knox,Winnie,6th,Mrs. Guiser,No,"Mrs.  Beinecke, Mrs. Cremonese, Mrs. Gielata, Mrs. Guiser, Mrs. Hendal, Mrs. Perrott, Mrs. Piccirilli, Mrs. Pruss"
+10/28/2024 9:40:07,Mohammed,Arman,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mrs. Nix, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/28/2024 11:23:15,Lovas,Addison,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. McCourt, Mr. Perrott, Mrs. Piccirilli, Mrs. Sisinni, Mrs. Thomas, Mr. Wazenegger, Mrs. Windisch"
+10/28/2024 11:23:24,Hajdarwish,Musa,6th,Mr. West,No,"Mrs. Beck, Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Kruth, Mrs. Pruss, Mr. Ruffolo, Mr. West"
+10/28/2024 11:23:28,Rudolph,Abby,6th,Mrs. Windisch,No,"Mrs. Austin, Mrs.  Beinecke, Mrs. Cremonese, Mrs. Horzempa, Mrs. Lally, Mr. Ruffolo, Mr. Taylor, Mr. Wazenegger"
+10/28/2024 11:24:14,Coll Fox ,Stella,6th,Mr. West,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. McCourt, Ms. Minnetti, Mrs. Pruss, Mr. Ruffolo, Mrs. Tupper, Mr. West"
+10/28/2024 11:24:55,Richard,JC,6th,Mr. West,No,"Mr. Barnhart, Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Ms. Minnetti, Mr. Ruffolo, Mr. West"
+10/28/2024 11:25:06,Tierney ,Michael,6th,Mr. West,No,"Mr. Finnerty, Mr. Hall, Mrs. Kotts, Mrs. Lally, Mr. Mannarino, Mrs. Pruss, Mrs. Tupper, Mr. West"
+10/28/2024 11:25:15,Cooper,Olivia,6th,Mr. West,No,"Ms. Bianco, Mr. Finnerty, Mr. Laughton, Ms. Minnetti, Mrs. Pruss, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/28/2024 11:25:15,Lese,Freddie,6th,Mr. West,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Horzempa, Mrs. Kotts, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/28/2024 11:26:21,Gruntz,Xander,6th,Mr. West,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Mannarino, Mrs. Pruss, Mr. Rossi, Mrs. Shober, Mr. West, Mrs. Windisch"
+10/28/2024 11:26:47,Rajanikanth,Ashwin,6th,Mr. West,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Hall, Mr. Laughton, Mr. Litwinovich, Mr. Mannarino, Mr. Ruffolo, Mr. West"
+10/28/2024 11:27:29,Williams,Cabrina,6th,Mrs. Brucker,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. Horzempa, Mrs. Nagel, Mrs. Pruss, Mrs. Thomas, Mrs. Windisch"
+10/28/2024 11:27:52,Caproni,Jacob,6th,Mr. West,No,"Mr. Bacco, Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/28/2024 11:30:11,Canales Galo,Angie,6th,Mr. West,No,"Mrs. M. Amato (Spanish), Mrs. Horzempa, Mrs. Kotts, Mrs. Kress, Mrs. Nix, Mrs. Pruss, Mr. Rossi, Mrs. Wagner"
+10/28/2024 11:30:51,Patel,Aria,6th,Mr. Ruffolo,No,"Mrs. B. Amato (6th grade), Mrs. Austin, Mrs. Brucker, Dr. Crimone, Ms. Minnetti, Mrs. Thomas, Mr. West, Mrs. Windisch"
+10/28/2024 11:45:15,Keller,Walter,6th,Mr. West,No,"Mr. Finnerty, Mrs. Horzempa, Dr. Maurer, Ms. Minnetti, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/28/2024 11:47:23,Loughner,Leo,6th,Mrs. Windisch,No,"Mr.  Becker, Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mrs. Fagan/Mrs. Vouvalis, Mr. Mannarino, Mrs. Tupper"
+10/28/2024 11:47:47,Saravanan,Riya,6th,Mrs. Shober,No,"Mrs. Brucker, Mrs. Cremonese, Mrs. Guiser, Mrs. Hendal, Mr. Laughton, Mr. Mannarino, Mrs. McCourt, Mrs. Shober"
+10/28/2024 12:00:36,yakich,calvin,6th,Ms. Pruss,No,"Mr. Barnhart, Mrs. Beck, Mr. Finnerty, Mrs. Frohliger, Mrs. Kress, Mr. Kruth, Mrs. Pruss, Mr. West"
+10/28/2024 12:01:31,Miles,Rosie Marie,6th,Mr. West,No,"Mrs. M. Amato (Spanish), Mrs. Cremonese, Mrs. Horzempa, Mr. Mannarino, Ms. Minnetti, Mr. Patterson, Mrs. Pruss, Mrs. Tupper"
+10/28/2024 12:05:11,Seemann,Ethan,6th,Mrs. Windisch,No,"Mrs. M. Amato (Spanish), Mrs. Brucker, Mrs. Cremonese, Mrs. Fagan/Mrs. Vouvalis, Ms. Minnetti, Mrs. Perrott, Mrs. Thomas, Mrs. Windisch"
+10/28/2024 13:03:50,Klos,Tyler,6th,Mrs. Shober,No,"Mr. Bacco, Mr. Barnhart, Mrs. Donovan, Mr. Finnerty, Mrs. Guiser, Mr. Laughton, Mr. Ruffolo, Mrs. Shober"
+10/28/2024 14:26:07,Grella,Jillian,6th,Mrs. Guiser,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Horzempa, Ms. Minnetti, Mrs. Perrott, Mrs. Shober, Mrs. Windisch"
+10/28/2024 14:30:00,Feroz,Faiza,6th,Mrs. Guiser,No,"Mrs. Guiser, Mrs. Kotts, Mr. Laughton, Mrs. Perrott, Mrs. Pruss, Mrs. Shober, Mrs. Tupper, Mrs. Windisch"
+10/28/2024 14:30:09,Ciocca,Ava,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Mr. Bacco, Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino"
+10/28/2024 14:30:15,Iskandarov,Javlon,6th,Mrs. Guiser,No,"Mrs. Austin, Mr. Bacco, Mr. Barnhart, Mr. Finnerty, Mrs. Guiser, Mrs. Lally, Mr. Laughton, Mrs. Shober"
+10/28/2024 14:32:06,Ryan,Juliet,6th,Mrs. Guiser,No,"Mrs. Clayton, Mrs. Cremonese, Mrs. Guiser, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mrs. McCourt, Mrs. Windisch"
+10/28/2024 14:33:22,Ludwig,griffin,6th,Mrs. Amato,No,"Mrs.  Beinecke, Ms. Bianco, Dr. Crimone, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Dr. Maurer, Mr. Rossi"
+10/28/2024 14:33:23,Sonani,Swara,6th,Mrs. Guiser,No,"Mrs. B. Amato (6th grade), Mrs. M. Amato (Spanish), Mrs. Cremonese, Mrs. Guiser, Mrs. Horzempa, Mrs. Rebovich, Mr. Ruffolo, Mrs. Shober"
+10/28/2024 14:33:29,Vuono,Addison,6th,Mrs. Guiser,No,"Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Laughton"
+10/28/2024 14:33:29,Zapf,Bexley,6th,Mrs. Guiser,No,"Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Laughton"
+10/28/2024 14:35:55,Kommireddy,Teja,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Mrs. Cremonese, Dr. Crimone, Mrs. Kress, Mr. Kruth, Dr. Maurer, Ms. Minnetti, Mr. West"
+10/28/2024 14:40:02,Bourg ,Kendal ,6th,Mrs. Guiser,No,"Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Mrs. Guiser, Mrs. Hendal, Mrs. Horzempa, Mrs. Perrott, Mrs. Windisch"
+10/28/2024 14:40:21,Cataldo ,Cataldo,6th,Mrs. Guiser,No,"Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Mrs. Donovan, Mrs. Guiser, Mrs. Horzempa, Mrs. Windisch"
+10/28/2024 14:42:00,Willy,Jude,6th,Mrs. Guiser,No,"Mr. Barnhart, Mr. Finnerty, Dr. Maurer, Mr. Oney, Mr. Philipp, Mr. Popovic, Mr. Rossi, Mr. West"
+10/28/2024 14:42:06,Erukula,Vedhamsh,6th,Mrs. Shober,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Donovan, Mr. Finnerty, Mr. Laughton, Mr. Ruffolo, Mrs. Shober, Mr. West"
+10/28/2024 14:42:44,Monz,Romello,6th,Mrs. Amato,No,"Mrs. B. Amato (6th grade), Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mr. Finnerty, Mrs. Horzempa, Mr. Kruth, Mr. Rossi"
+10/28/2024 14:46:08,Molianro,Lila,6th,Mr. Laughton,No,"Mrs.  Beinecke, Dr. Crimone, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mrs. Piccirilli, Mrs. Sisinni, Mrs. Windisch"
+10/28/2024 14:47:21,Sijo,Ryan,6th,Mrs. Guiser,No,"Mrs. Donovan, Mr. Finnerty, Mrs. Guiser, Mr. Laughton, Ms. Minnetti, Mr. Ruffolo, Mrs. Shober, Mr. West"
+10/29/2024 8:13:16,Ropar,Sophia,6th,Mr. West,No,"Mrs. M. Amato (Spanish), Mrs. Beck, Mr.  Becker, Mrs. Fagan/Mrs. Vouvalis, Mrs. Frohliger, Mr. Mannarino, Mrs. Pruss, Mr. West"
+10/29/2024 8:15:44,Krobot,Zoey,6th,Mrs. Guiser,No,"Mrs. B. Amato (6th grade), Mr. Barnhart, Mrs. Brucker, Mrs. Guiser, Mr. Laughton, Mr. Litwinovich, Mr. Rossi, Mr. Ruffolo"
+10/30/2024 14:39:29,Porter,Nathaniel,6th,Mr. West,No,"Mrs. Beck, Mrs. Cremonese, Dr. Crimone, Mr. Mannarino, Ms. Minnetti, Mrs. Pruss, Mrs. Tupper, Mr. West"
+10/30/2024 14:43:58,Hoskins,Majesty,6th,Mr. West,No,"Mrs. M. Amato (Spanish), Mr. Finnerty, Mr. Mannarino, Mrs. Pruss, Mr. Ruffolo, Mr. Taylor, Mr. West, Mrs. Windisch"
+10/30/2024 14:45:16,Conley,Mae,6th,Mr. West,No,"Mrs. Austin, Dr. Crimone, Mrs. Horzempa, Ms. Minnetti, Mrs. Nix, Mrs. Pruss, Mr. Wazenegger, Mr. West"
+10/30/2024 14:45:26,Sage,Dean,6th,Mr. West,No,"Mrs. Austin, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. McCourt, Mr. Patterson, Mrs. Pruss, Mr. Ruffolo, Mr. Taylor"
+10/30/2024 14:45:43,Wurzler,Genevieve,6th,Mr. West,No,"Mrs. Horzempa, Mrs. Kress, Mrs. Lally, Mrs. McCourt, Ms. Minnetti, Mrs. Perrott, Mr. Rossi, Mr. Taylor"
+10/30/2024 14:59:06,St. John,Raegan,6th,Mr. West,No,"Mr. Barnhart, Mrs. Cremonese, Dr. Crimone, Mrs. Kotts, Dr. Maurer, Mr. Perrott, Mrs. Pruss, Mr. West"
+10/31/2024 14:25:54,Kozar,brody,6th,Mr. West,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Kruth, Mr. Perrott, Mrs. Pruss, Mr. Rossi, Mr. Ruffolo"
+10/31/2024 15:33:07,Seemann,Emma,6th,Mrs. Guiser,No,"Mrs. Beck, Ms. Bianco, Mrs. Gielata, Mrs. Guiser, Mr. Laughton, Mr. Mannarino, Mrs. Shimkoski, Mrs. Windisch"
+11/1/2024 9:28:40,Williams,Reveka,6th,Mrs. Windisch,No,"Mrs. Brucker, Dr. Crimone, Mrs. Lally, Mrs. McCourt, Mr. Rossi, Mr. Ruffolo, Mrs. Tupper, Mrs. Windisch"
+11/1/2024 18:08:46,McCarty,Kinsley,6th,Mrs. Windisch,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Hendal, Mr. Rossi, Mr. Ruffolo, Mr. Wazenegger, Mrs. Windisch"
+11/4/2024 10:06:37,Pijanowski,MaryKay,6th,Mrs. Kotts,No,"Mr. Finnerty, Mrs. Guiser, Mrs. Hendal, Mrs. Kress, Mrs. McCourt, Mrs. Pruss, Mrs. Wagner, Mr. West"
+11/4/2024 10:49:37,Eggert,Jaxson,6th,Ms. Bianco,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mr. Finnerty, Mr. Hall, Mrs. Lally, Ms. Minnetti, Mr. Wazenegger, Mr. West"
+11/4/2024 20:09:40,KATREDDY,LAASYA,6th,Mr. West,No,"Mrs. Donovan, Mr. Finnerty, Mrs. Goedert, Mr. Laughton, Mrs. Nix, Mr. Oney, Mrs. Shimkoski, Mrs. Windisch"
+11/5/2024 8:45:10,Mach,Owen,6th,Mr. Laughton,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Ms. Minnetti, Mr. Rossi, Mr. West"
+11/5/2024 8:45:27,Shutak,Nickolai,6th,Mr. Laughton,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Mrs. Guiser, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Philipp, Mr. Ruffolo, Mrs. Tupper"
+11/5/2024 8:45:44, Vignesh,Hashini Sai,6th,Mr. Laughton,No,"Dr. Crimone, Mrs. Guiser, Mrs. Lally, Mr. Laughton, Mr. Mannarino, Mr. Ruffolo, Mrs. Tupper, Mrs. Windisch"
+11/5/2024 8:49:37,Shah,Keya,6th,Mr. Laughton,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mrs. Gielata, Mrs. Guiser, Mrs. Hendal, Ms. Minnetti, Mrs. Shober"
+11/5/2024 8:50:59,Boland,Cassie,6th,Mr. Laughton,No,"Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Guiser, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Nagel"
+11/5/2024 13:04:34,Humer,West,6th,Mr. Ruffolo,No,"Mr. Barnhart, Dr. Crimone, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Perrott, Mr. Richman, Mr. West"
+11/5/2024 14:37:02,Avdagic,Ernes,6th,Ms. Pruss,No,"Mr. Barnhart, Mrs. Beck, Mrs. Cremonese, Mr. Finnerty, Mrs. Kotts, Mrs. Lally, Mr. Laughton, Dr. Maurer"
+11/5/2024 14:40:08,Gray,Eleanor,6th,Ms. Pruss,No,"Mr. Barnhart, Mrs. Brucker, Mrs. Clayton, Dr. Crimone, Mrs. Frohliger, Mr. Mannarino, Mrs. Pruss, Mrs. Thomas"
+11/5/2024 18:24:20,Gutwald,Robin,6th,Mr. Laughton,No,"Mrs. Clayton, Dr. Crimone, Mrs. Donovan, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Mrs. Shober, Mrs. Wagner"
+11/6/2024 14:27:19,Gutwald ,Robin,6th,Mr. Laughton,No,"Mrs. Clayton, Mrs. Frohliger, Mrs. Guiser, Mrs. Horzempa, Mr. Laughton, Mrs. Perrott, Mrs. Shober, Mrs. Wagner"
+11/6/2024 14:35:08,naisoro,liam,6th,Ms. Pruss,No,"Mr. Barnhart, Mrs. Beck, Mr.  Becker, Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mrs. Pruss, Mr. West"
+11/6/2024 14:42:49,underhill,charles,6th,Mrs. Windisch,No,"Mrs. Brucker, Mrs. Fagan/Mrs. Vouvalis, Mr. Finnerty, Mr. Mannarino, Ms. Minnetti, Mr. Rossi, Mr. Wazenegger, Mr. West"
+,portaro,lucas,6th,Mrs. Brucker,No,"Mr. Richman, Mr. Rossi, Mr. Finnerty, Mr. Ruffolo, Mr. West, Mrs. Becker, Mr. Bacco"
+10/24/2024 11:41:04,Thirumurugan,Diya,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Dr. Crimone, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino, Ms. Minnetti, Mrs. Shober, Mr. Taylor"
+10/24/2024 11:41:48,Khattab,Rayan,7th,Mrs. A. Hoffman (7th grade),No,"Mr. Finnerty, Mr. Laughton, Mr. Oney, Mr. Rossi, Mr. Ruffolo, Mr. Taylor, Mr. West, Mrs. Windisch"
+10/24/2024 11:42:18,Wenger,Dylan,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Mr. Laughton, Mr. Litwinovich, Mr. Mannarino, Dr. Maurer, Mr. Perrott"
+10/24/2024 11:42:27,Bledsoe,Charles(Chase),7th,Mr. Taylor,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mrs. Rebovich, Mr. Ruffolo"
+10/24/2024 11:42:38,Caputo,Michael,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mr. Patterson, Mr. Rossi, Mr. West"
+10/24/2024 11:42:39,Loveson,Adith,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mr. Oney, Mr. Taylor, Mr. West"
+10/24/2024 11:42:43,Mantraratnam,Shreya,7th,Mrs. A. Hoffman (7th grade),No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Dr. Crimone, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Tupper"
+10/24/2024 11:42:57,Trimbur,Ronan,7th,Mr. Taylor,No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Mannarino, Mr. Rossi, Mr. Taylor"
+10/24/2024 11:42:57,Shah,Havya,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Hendal, Mrs. Kress, Mr. Philipp"
+10/24/2024 11:43:13,Patolia,Jayvyn,7th,Mr. Taylor,No,"Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Oney, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo"
+10/24/2024 11:44:04,Yeh,Luke,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino, Dr. Maurer, Ms. Minnetti, Mr. Picozzi, Mr. Wazenegger"
+10/24/2024 11:44:31,Kacsur ,Christopher,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Taylor, Mrs. Wagner"
+10/24/2024 11:45:10,Morford,Gia,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mrs. Harris, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Nagel"
+10/24/2024 11:45:33,Wang,Emily,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino"
+10/24/2024 11:45:45,Kelley,Anthony,7th,Mr. Taylor,No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mrs. Harris, Mrs. A. Hoffman (7th grade), Mr. Patterson, Mrs. Pruss, Mrs. Wagner, Mr. West"
+10/24/2024 11:45:48,Mathew,Adalia,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mrs. Cremonese, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mrs. Shober, Mr. Taylor, Mrs. Tupper, Mrs. Windisch"
+10/24/2024 11:46:34,Kadam,Parin,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Guiser, Mrs. A. Hoffman (7th grade), Mr. Laughton, Dr. Maurer, Mr. Taylor, Mr. Wazenegger"
+10/24/2024 11:47:28,Oltyan,Griffin,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mr. Oney"
+10/24/2024 11:47:35,Senthilkumar,Mithra,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mr. Laughton, Mr. Mannarino, Mrs. Shober, Mrs. Tupper"
+10/24/2024 11:47:56,Liberto,Domenic,7th,Mr. Taylor,No,"Mr. Finnerty, Mr. Hall, Mr. Mannarino, Mr. Oney, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 11:48:57,Kinjaram,Vihaan,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino, Mr. Popovic, Mr. Rossi, Mrs. Shober"
+10/24/2024 12:00:26,Beerhalter,Landon,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Dr. Maurer, Mr. Rossi, Mr. Ruffolo, Mr. Taylor, Mr. West"
+10/24/2024 13:25:25,Restivo,Jason,7th,Mr. Taylor,No,"Mr. Finnerty, Mr. Litwinovich, Dr. Maurer, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 13:25:48,McGinn,Jacob,7th,Mrs. A. Hoffman (7th grade),No,"Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mr. Ruffolo, Mrs. Shober, Mr. Taylor, Mr. Wazenegger, Mr. West"
+10/24/2024 13:25:52,Shah ,Sonali,7th,Mrs. A. Hoffman (7th grade),No,"Mrs. M. Amato (Spanish), Mr. Barnhart, Mrs.  Beinecke, Ms. Bianco, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino"
+10/24/2024 13:26:22,Luo,Jack,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Oney, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 13:27:21,Ganeshkumar,Kathir,7th,Mrs. A. Hoffman (7th grade),No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mrs. A. Hoffman (7th grade), Mr. Kruth, Mr. Laughton, Mr. Mannarino, Mr. Oney, Mr. Richman"
+10/24/2024 13:27:44,Hanna,Mila,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mrs. Harris, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Ms. Minnetti, Mr. Oney, Mrs. Pruss, Mr. Richman"
+10/24/2024 13:28:09,Kramer,Samantha,7th,Mrs. A. Hoffman (7th grade),No,"Mrs.  Beinecke, Mrs. Cremonese, Mrs. Horzempa, Mrs. Kotts, Ms. Minnetti, Mrs. Pruss, Mr. Taylor, Mr. West"
+10/24/2024 13:28:14,Pallerla,Rahal,7th,Mrs. A. Hoffman (7th grade),No,"Mr. Finnerty, Mr. Laughton, Mr. Litwinovich, Mr. Mannarino, Mr. Oney, Mr. Patterson, Mr. Rossi, Mr. Ruffolo"
+10/24/2024 13:37:22,Bhundiya,Aarzu,7th,Mrs. Shimkoski,No,"Mrs.  Beinecke, Mrs. Clayton, Mr. Litwinovich, Dr. Maurer, Mr. Patterson, Mr. Ruffolo, Mrs. Shober, Mrs. Windisch"
+10/24/2024 13:47:13,Ritter!,Sophie!,7th,Mr. Taylor,No,"Mr. Bacco, Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mr. Patterson, Mr. Ruffolo"
+10/24/2024 14:25:30,Medvec,Stella,8th,Mr. Popovic,No,"Mrs. M. Amato (Spanish), Mr. Finnerty, Mr. Philipp, Mrs. Pruss, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mrs. Shimkoski"
+10/24/2024 14:28:12,Ekkurthi,Sadgun,8th,"Mr. Bacco, Mrs. Balta, Mr. Popovic",No,"Mr. Bacco, Mrs. Kotts, Mr. Oney, Mr. Patterson, Mr. Philipp, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/24/2024 14:31:51,Kwiatek,Julian,7th,Mr. Richman,No,"Mr. Barnhart, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo"
+10/24/2024 14:32:38,Suresh,Suriya,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Clayton, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mrs. Shober, Mr. Taylor, Mr. West"
+10/24/2024 14:32:38,Stovash,Maci,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mrs. Harris, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Nagel"
+10/24/2024 14:32:40,Richards,Evan,8th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Mannarino, Mr. Patterson, Mr. Perrott, Mr. Rossi, Mr. West"
+10/24/2024 14:33:02,Goettman,Skylar,7th,Mrs. Beinecke,No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mrs. Shober, Mr. Taylor"
+10/24/2024 14:33:35,Sah,Raunak,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. West"
+10/24/2024 14:34:57,Alex,Camden ,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. Horzempa, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo"
+10/24/2024 14:38:26,Greenwood,Grace,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mrs. Clayton, Dr. Crimone, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/24/2024 14:39:35,zych,addison,7th,Mrs. Shimkoski,No,"Mrs.  Beinecke, Dr. Crimone, Mr. Finnerty, Mrs. Horzempa, Mrs. Kotts, Mrs. Pruss, Mr. Richman, Mrs. Shimkoski"
+10/24/2024 14:39:48,Fogarty,Bailey,8th,Mrs. Shimkoski,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Harris, Mrs. Horzempa, Mrs. Kotts, Mrs. Pruss, Mr. Richman, Mrs. Shimkoski"
+10/24/2024 14:39:51,Scureman,Emily,7th,Mrs. Shimkoski,No,"Mrs. Cremonese, Mrs. Harris, Mrs. Horzempa, Mrs. Kotts, Mrs. Nagel, Mrs. Pruss, Mr. Richman, Mrs. Shimkoski"
+10/24/2024 14:40:37,Daycock,Calleigh,7th,Mrs. Shimkoski,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mr. Finnerty, Mrs. Gielata, Mrs. D. Hoffman (8th grade), Mr. Richman, Mrs. Shimkoski, Mr. Wazenegger"
+10/24/2024 14:44:17,Dunay,Sadie,7th,Mrs. Shimkoski,No,"Mrs. Brucker, Mrs. Gielata, Mrs. D. Hoffman (8th grade), Mrs. Horzempa, Mr. Richman, Mr. Ruffolo, Mrs. Shimkoski, Mrs. Windisch"
+10/24/2024 14:46:03,Praveen,Noah,7th,Mrs. Geraud,No,"Mrs. Austin, Mr. Laughton, Dr. Maurer, Mr. Oney, Mr. Patterson, Mr. Perrott, Mr. Rossi, Mr. West"
+10/24/2024 14:46:20,Klemick,Edie,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Mannarino, Ms. Minnetti, Mr. Wazenegger"
+10/24/2024 15:35:31,Fornella,Nick,7th,Mrs. Sisinni,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mr. Oney, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo"
+10/24/2024 15:59:02,Kohowski,Mason,7th,Mrs. Shimkoski,No,"Mr. Bacco, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Richman, Mr. Rossi, Mr. Ruffolo"
+10/24/2024 17:45:31,Ibella,Lydia ,7th,Mr. Taylor,No,"Mr. Bacco, Mr.  Becker, Mr. Hall, Mr. Litwinovich, Mr. Oney, Mr. Philipp, Mr. Ruffolo, Mr. Wazenegger"
+10/24/2024 18:06:44,Bouassida,Hana,7th,Mrs. Shimkoski,No,"Mr. Barnhart, Dr. Crimone, Mr. Kruth, Mrs. Lally, Mr. Laughton, Dr. Maurer, Mrs. Pruss, Mr. Wazenegger"
+10/24/2024 18:08:27,Pamecha,Arjun,7th,Mr. Taylor,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/24/2024 20:05:39,Vikara,Lilly,7th,Mrs. Geraud,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mrs. Nagel, Mr. Richman, Mr. Rossi, Mrs. Shimkoski, Mrs. Shober"
+10/24/2024 20:49:49,Kaine,Faith,7th,Mr. Richman,No,"Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mr. Richman, Mr. Ruffolo"
+10/24/2024 21:39:09,Huynh,Vivian,7th,Mr. Richman,No,"Mrs. Brucker, Mr. Kruth, Mrs. Lally, Mr. Richman, Mr. Ruffolo, Mrs. Shimkoski, Mr. West, Mrs. Windisch"
+10/24/2024 22:07:42,Chandiran,Sai Anshika ,7th,Mrs. Austin,No,"Mrs. Austin, Mr. Bacco, Mr.  Becker, Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mr. Richman, Mr. Rossi"
+10/24/2024 23:50:00,Freeman,Emily,8th,Mr. Popovic,No,"Mrs. M. Amato (Spanish), Mr. Bacco, Mr. Finnerty, Mrs. Horzempa, Mr. Patterson, Mr. Richman, Mr. Rossi, Mrs. Sisinni"
+10/25/2024 8:04:07,Kathale,Ayush,8th,Mr. Becker,No,"Mr.  Becker, Mr. Finnerty, Mrs. Fagan/Mrs. Vouvalis, Mrs. Hendal, Mrs. D. Hoffman (8th grade), Ms. Minnetti, Mrs. Rebovich, Mrs. Tupper"
+10/25/2024 8:15:43,Pelino,Jayden,7th,Mrs. Shimkoski,No,"Mr. Finnerty, Mr. Kruth, Mr. Mannarino, Mr. Oney, Mr. Richman, Mr. Rossi, Mr. Wazenegger, Mr. West"
+10/25/2024 8:50:38,Shuey,Logan,7th,Mrs. Austin,No,"Mr. Finnerty, Mr. Kruth, Mr. Laughton, Mr. Oney, Mr. Richman, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/25/2024 8:50:50,Madivada,Aditya,7th,Mr. Richman,No,"Mrs. Kotts, Mr. Laughton, Mr. Litwinovich, Mr. Oney, Mrs. Pruss, Mr. Richman, Mrs. Tupper, Mr. West"
+10/25/2024 8:51:08,Hudock,Elise,8th,Mr. Popovic,No,"Mrs. Guiser, Mrs. Horzempa, Mr. Mannarino, Mr. Patterson, Mr. Philipp, Mr. Richman, Mrs. Shimkoski, Mrs. Tupper"
+10/25/2024 8:52:55,Billy ,Billy,7th,Mrs. Sisinni,No,"Mrs. M. Amato (Spanish), Mr. Laughton, Mr. Mannarino, Mr. Oney, Mrs. Piccirilli, Mrs. Sisinni, Mr. West, Mrs. Windisch"
+10/25/2024 8:53:11,Ali,Mustafa,8th,Mrs. Goedert,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Goedert, Mr. Mannarino, Mr. Perrott, Mr. Philipp, Mrs. Pruss, Mr. Rossi"
+10/25/2024 8:55:06,Martin,Robert,8th,Mrs. Goedert,No,"Mr. Finnerty, Mrs. Kent, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Popovic, Mr. Richman, Mr. Rossi"
+10/25/2024 8:56:27,Petruska,Lena,8th,Mr. Popovic,No,"Mrs.  Beinecke, Dr. Crimone, Mrs. Hendal, Mrs. Horzempa, Mr. Kruth, Mr. Popovic, Mrs. Tupper, Mrs. Wagner"
+10/25/2024 9:06:49,Bolen,Alexandria,7th,Mrs. Harris,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Canofari, Mr. Finnerty, Mrs. Horzempa, Mr. Litwinovich, Mr. Richman, Mr. Ruffolo"
+10/25/2024 9:25:50,Mithipati,Arhant,7th,Mrs. Geraud,No,"Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Perrott, Mr. Richman, Mr. Wazenegger"
+10/25/2024 9:28:04,Gorscak,Brauden,7th,Mrs. A. Hoffman (7th grade),No,"Mr.  Becker, Mr. Finnerty, Mr. Hall, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. West"
+10/25/2024 9:53:02,Neve,Daniella,7th,Mr. Richman,No,"Mrs.  Beinecke, Ms. Bianco, Dr. Crimone, Mr. Mannarino, Dr. Maurer, Mr. Patterson, Mr. Philipp, Mr. Richman"
+10/25/2024 9:58:07,Mohammed,Ashaz,7th,Mr. Taylor,No,"Mrs. B. Amato (6th grade), Mrs. Beck, Ms. Bianco, Mrs. Nix, Mr. Oney, Mr. Picozzi, Mr. Ruffolo, Mr. West"
+10/25/2024 10:01:20,Chapman,Kate,7th,Mr. Richman,No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Harris, Mrs. Hendal, Mr. Patterson, Mr. Richman"
+10/25/2024 10:24:10,Parise,Anna,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Laughton, Ms. Minnetti, Mrs. Tupper"
+10/25/2024 10:45:27,Bannon,Lillian,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Ms. Minnetti, Mr. Perrott, Mr. Ruffolo, Mr. Wazenegger"
+10/25/2024 10:49:48,Lindberg,Nathan,7th,Mrs. Beinecke,No,"Mrs. M. Amato (Spanish), Mr. Bacco, Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Richman, Mr. Ruffolo"
+10/25/2024 10:51:40,Garcia,Emmanuel ,7th,Mrs. Beinecke,No,"Mr. Barnhart, Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Mr. Laughton, Mr. Oney, Mr. Perrott, Mr. Rossi"
+10/25/2024 11:15:12,Dean,Archer,7th,Mrs. A. Hoffman (7th grade),No,"Mr. Bacco, Mr. Barnhart, Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Dr. Maurer, Mr. Oney, Mr. West"
+10/25/2024 11:43:43,Arunkumar,Mithunbhaskar,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Clayton, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Kruth, Mr. Oney, Mr. Taylor, Mrs. Tupper"
+10/25/2024 11:48:13,Gibbs,Elise,7th,Mrs. Harris,No,"Mrs. Austin, Ms. Bianco, Mrs. Brucker, Mrs. Harris, Mrs. Horzempa, Ms. Minnetti, Mrs. Pruss, Mr. Ruffolo"
+10/25/2024 11:58:39,Wright ,Aayden ,8th,Mrs. Gielata,No,"Ms. Bianco, Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mr. Laughton, Mr. Patterson, Mr. Rossi, Mr. West"
+10/25/2024 14:40:13,Zirwas,Carson,8th,Mrs. Goedert,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Guiser, Mr. Oney, Mr. Patterson, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo"
+10/25/2024 14:42:05,Leland,Aurora,7th,Mrs. Harris,No,"Mrs. Brucker, Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mr. Kruth, Mr. Mannarino, Mr. Ruffolo, Mrs. Thomas"
+10/25/2024 14:43:18,chegareddi,khushi,7th,Mrs. Harris,No,"Mrs. M. Amato (Spanish), Mrs. Austin, Ms. Bianco, Mr. Finnerty, Mrs. Gielata, Mrs. Fagan/Mrs. Vouvalis, Mrs. Harris, Mrs. D. Hoffman (8th grade)"
+10/25/2024 14:43:50,duff,cam,7th,Mrs. Harris,No,"Mrs. Austin, Mr. Finnerty, Mrs. Harris, Mrs. Lally, Mrs. Nagel, Mr. Rossi, Mrs. Wagner, Mr. West"
+10/25/2024 14:44:03,rowland,mylo,7th,Mrs. Harris,No,"Mrs. B. Amato (6th grade), Mrs. Austin, Mrs. Brucker, Mrs. Harris, Mrs. Kent, Mrs. Nagel, Mr. West, Mrs. Windisch"
+10/25/2024 14:44:33,Shedeed,Adam,7th,Mrs. Harris,No,"Mrs. Austin, Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mrs. Wagner, Mr. Wazenegger, Mr. West"
+10/25/2024 14:44:37,Raja,Ashwin,7th,Mrs. Harris,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mr. Laughton, Mr. Mannarino, Mr. Popovic, Mrs. Tupper, Mr. Wazenegger"
+10/25/2024 14:47:57,Stewart,Fox,7th,Mrs. Harris,No,"Mrs. Austin, Mrs. Brucker, Mrs. Harris, Mrs. Kent, Mr. Laughton, Dr. Maurer, Mr. Perrott, Mr. West"
+10/25/2024 16:10:49,Gutta,Saanvi,7th,Mrs. Shimkoski,No,"Ms. Bianco, Mrs. Cremonese, Mr. Mannarino, Ms. Minnetti, Mrs. Perrott, Mr. Richman, Mrs. Shimkoski, Mr. Wazenegger"
+10/25/2024 16:34:15,McKinley,Rowan,7th,Mr. Oney,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Ms. Minnetti, Mrs. Piccirilli, Mrs. Sisinni"
+10/25/2024 16:34:15,Drake,Noelle,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Ms. Minnetti, Mrs. Piccirilli, Mrs. Sisinni"
+10/25/2024 16:51:30,Gopani,Priya,8th,Mr. Philipp,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Perrott, Mr. Ruffolo"
+10/25/2024 20:52:21,Havel,Ella,7th,Mrs. Austin,No,"Mrs. Austin, Mrs. Beck, Mrs.  Beinecke, Mrs. Harris, Mrs. Nagel, Mrs. Piccirilli, Mrs. Pruss, Mrs. Sisinni"
+10/26/2024 16:46:17,Klisavage,Samantha,7th,Mrs. Beinecke,No,"Mrs.  Beinecke, Mrs. Clayton, Mrs. Cremonese, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Shober, Mrs. Speakman, Mrs. Tupper"
+10/27/2024 9:47:56,Zirwas,Carson,8th,Mrs. Goedert,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Oney, Mr. Patterson, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/27/2024 20:05:53,Patel,Shreya,7th,Mr. Richman,No,"Ms. Bianco, Mr. Laughton, Mr. Mannarino, Ms. Minnetti, Mr. Patterson, Mr. Richman, Mrs. Shimkoski, Mrs. Tupper"
+10/27/2024 20:41:46,Yuvaraj,Kavya,7th,Mrs. A. Hoffman (7th grade),No,"Mrs. Beck, Mrs.  Beinecke, Mrs. Cremonese, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino, Mrs. Shober, Mrs. Tupper"
+10/28/2024 10:24:35,Udumula,Lakshmi,8th,Mr. Picozzi,No,"Mrs. Brucker, Mrs. Clayton, Mrs. Hendal, Mr. Oney, Mr. Picozzi, Mr. Ruffolo, Mrs. Speakman, Mrs. Tupper"
+10/28/2024 14:29:50,Owens,Max,7th,Mrs. Beinecke,No,"Mr. Finnerty, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mr. Rossi, Mr. Taylor"
+10/28/2024 14:29:54,Dana,Ayush,7th,Mrs. Geraud,No,"Mr. Finnerty, Mr. Laughton, Mr. Oney, Mr. Richman, Mr. Ruffolo, Mr. Taylor, Mr. Wazenegger, Mr. West"
+10/28/2024 14:30:25,Anand,Diya,7th,Mr. Oney,No,"Mrs. Clayton, Mr. Laughton, Mr. Litwinovich, Mrs. McCourt, Mrs. Piccirilli, Mrs. Shober, Mrs. Sisinni, Mrs. Windisch"
+10/28/2024 14:32:37,Downs,Kellen,7th,Mrs. Geraud,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mr. Laughton, Mr. Richman, Mr. Rossi, Mrs. Shimkoski, Mr. West"
+10/28/2024 14:34:32,Miller,Jonah,7th,Mr. Oney,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mr. Kruth, Mr. Oney, Mrs. Piccirilli, Mrs. Sisinni, Mrs. Wagner, Mr. West"
+10/28/2024 14:35:45,saadeldin,said,7th,Mrs. Geraud,No,"Mr. Finnerty, Mr. Hall, Mrs. Horzempa, Mr. Mannarino, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/28/2024 14:36:15,Sebastian,Amy,7th,Mr. Oney,No,"Ms. Bianco, Mrs. Brucker, Mrs. Cremonese, Mrs. Kent, Mr. Oney, Mr. Ruffolo, Mrs. Sisinni, Mr. Wazenegger"
+10/28/2024 14:37:12,Crybslkey,Payten,7th,Mr. Oney,No,"Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/28/2024 14:37:46,Davis,Ryleigh,7th,Mrs. Geraud,No,"Mrs.  Beinecke, Mrs. Brucker, Ms. Minnetti, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mrs. Windisch"
+10/28/2024 14:42:00,Pandya,Tanisha ,7th,Mrs. Beinecke,No,"Ms. Bianco, Mrs. Kotts, Mr. Laughton, Mr. Patterson, Mrs. Pruss, Mr. Richman, Mrs. Shimkoski, Mrs. Tupper"
+10/28/2024 14:43:34,Perez,Eliana,7th,Mr. Oney,No,"Mrs. Brucker, Mr. Finnerty, Mrs. Kent, Mr. Laughton, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo, Mrs. Windisch"
+10/28/2024 14:44:23,Sipos,Aubrey,7th,Mr. Oney,No,"Mrs. A. Hoffman (7th grade), Mrs. Kent, Mr. Laughton, Mr. Oney, Mrs. Piccirilli, Mrs. Pruss, Mrs. Sisinni, Mr. West"
+10/28/2024 14:44:36,goff,maddie,7th,Mrs. Beinecke,No,"Mrs. Beck, Mrs.  Beinecke, Mrs. Cremonese, Mrs. Guiser, Mrs. Harris, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Windisch"
+10/28/2024 14:44:51,Tajibeav,Ismoiljon,8th,Mr. Philipp,No,"Mr. Laughton, Mrs. Nix, Mr. Patterson, Mr. Perrott, Mr. Philipp, Mrs. Shimkoski, Mrs. Shober, Mrs. Windisch"
+10/28/2024 14:46:18,Avazov,Abdullajon,8th,Mr. Philipp,No,"Mr. Laughton, Mr. Patterson, Mr. Philipp, Mrs. Piccirilli, Mr. Popovic, Mrs. Shober, Mrs. Sisinni, Mr. Wazenegger"
+10/28/2024 14:47:49,Reeder,Dade,7th,Mr. Oney,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Kent, Mrs. Kress, Mr. Oney, Mrs. Piccirilli, Mr. Rossi, Mr. Wazenegger"
+10/28/2024 15:38:26,Elwarner,Brayden,7th,Mr. Oney,No,"Mrs. B. Amato (6th grade), Mr. Bacco, Mr. Barnhart, Mrs. Cremonese, Mr. Finnerty, Mr. Oney, Mrs. Piccirilli, Mr. West"
+10/28/2024 18:22:47,Scheffer,Annasophia,7th,Mr. Richman,No,"Mrs. Brucker, Mrs. Clayton, Mrs. Cremonese, Mrs. Hendal, Mrs. McCourt, Mr. Richman, Mrs. Shimkoski, Mrs. Windisch"
+10/28/2024 18:24:49,Frommeyer,Cora,7th,Mrs. Geraud,No,"Mrs. Brucker, Mrs. Clayton, Mrs. Cremonese, Mrs. Hendal, Mrs. McCourt, Mr. Richman, Mrs. Shimkoski, Mrs. Windisch"
+10/29/2024 8:31:12,Patolia,Jayvyn,7th,Mr. Taylor,No,"Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Oney, Mrs. Pruss, Mr. Richman, Mr. Rossi, Mrs. Shimkoski"
+10/29/2024 8:31:14,Mahammad Abdul,Arman,7th,Mr. Richman,No,"Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Oney, Mrs. Pruss, Mr. Richman, Mr. Rossi, Mrs. Shimkoski"
+10/29/2024 10:42:51,Becker,Makenzie,7th,Mr. Richman,No,"Mrs. Brucker, Mr. Finnerty, Mr. Oney, Mr. Richman, Mr. Rossi, Mrs. Shimkoski, Mr. West, Mrs. Windisch"
+10/29/2024 10:45:50,Egan,Raleigh,7th,Mrs. Geraud,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Hendal, Mrs. Horzempa, Mrs. McCourt, Mrs. Pruss, Mrs. Shimkoski, Mrs. Windisch"
+10/29/2024 14:32:44,Price,Liam,7th,Mrs. Sisinni,No,"Mr. Barnhart, Mr. Finnerty, Mr. Kruth, Mr. Mannarino, Dr. Maurer, Mr. Oney, Mr. Wazenegger, Mr. West"
+10/29/2024 14:33:42,Dettwiller,Finley,7th,Mrs. Sisinni,No,"Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Hendal, Mrs. Horzempa, Mrs. Nagel, Mrs. Piccirilli, Mrs. Pruss"
+10/29/2024 14:38:41,Truair,Caraline,7th,Mrs. Sisinni,No,"Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Kotts, Ms. Minnetti, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/29/2024 14:39:25,Esch,Logan,7th,Mrs. Sisinni,No,"Mr. Bacco, Mrs.  Beinecke, Mr. Finnerty, Mr. Litwinovich, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/29/2024 14:45:34,Zelczak,Logan,7th,Mrs. Sisinni,No,"Mrs.  Beinecke, Ms. Bianco, Mrs. Brucker, Mr. Finnerty, Mr. Litwinovich, Mr. Patterson, Mr. Rossi, Mr. West"
+10/29/2024 14:48:46,Praveen,Naithan,7th,Mrs. Sisinni,No,"Mrs. Austin, Mr. Bacco, Ms. Bianco, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Rossi, Mr. West"
+10/29/2024 14:49:00,oechslein,declan,7th,"Mr. Patterson, Mrs. Sisinni",No,"Mr. Finnerty, Mr. Mannarino, Mr. Oney, Mr. Patterson, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo, Mrs. Windisch"
+10/29/2024 15:49:12,Medvec,Stella,8th,Mr. Popovic,No,"Mrs. M. Amato (Spanish), Mrs. Brucker, Mr. Finnerty, Mrs. Rebovich, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mrs. Shimkoski"
+10/29/2024 16:32:16,Sokolov,Igor,7th,Mrs. Austin,No,"Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mr. Perrott, Mr. Richman, Mrs. Tupper, Mr. Wazenegger, Mr. West"
+10/29/2024 18:36:25,Miller,Jenna,7th,Mrs. Austin,No,"Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mrs. Harris, Mrs. Horzempa, Mr. Litwinovich, Mrs. Pruss"
+10/30/2024 8:31:59,Soni,Aishani,8th,Mr. Becker,No,"Mr.  Becker, Mrs.  Beinecke, Mrs. Clayton, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Oney, Mrs. Shober, Mrs. Tupper"
+10/30/2024 12:59:21,Ragavendran,Rithwik,7th,Mrs. Austin,No,"Mrs. Austin, Mrs. Harris, Mrs. Horzempa, Mr. Laughton, Mr. Rossi, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/30/2024 13:49:02,Aamer,Muneeb,7th,Mrs. Sisinni,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Mr. Litwinovich, Dr. Maurer, Mr. Oney, Mr. Taylor, Mr. West"
+10/30/2024 14:22:04,Rana,Dhyan,7th,Mrs. Piccirilli,No,"Mrs.  Beinecke, Ms. Bianco, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mrs. Piccirilli, Mr. Rossi"
+10/30/2024 14:25:56,Ferrante,Lorenzo,7th,Mrs. Piccirilli,No,"Mr. Bacco, Mrs.  Beinecke, Mr. Finnerty, Mr. Litwinovich, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. West"
+10/30/2024 15:11:58,Fritz,Lyza,8th,Mrs. Gielata,No,"Mrs. Austin, Dr. Crimone, Mrs. Gielata, Mrs. Harris, Mrs. Horzempa, Mrs. Nagel, Mrs. Rebovich, Mr. Rossi"
+10/30/2024 15:14:54,dziki,juliet,8th,Mrs. Balta,No,"Mrs. Austin, Ms. Bianco, Dr. Crimone, Mrs. Horzempa, Mr. Patterson, Mrs. Piccirilli, Mr. Rossi, Mrs. Sisinni"
+10/30/2024 15:18:24,Onda ,Joycelyn,8th,Mr. Litwinovich,No,"Mrs. B. Amato (6th grade), Mrs. M. Amato (Spanish), Mrs.  Beinecke, Ms. Bianco, Dr. Crimone, Mr. Patterson, Mrs. Piccirilli, Mrs. Sisinni"
+10/30/2024 15:54:26,Williams ,Ayla,7th,Mrs. Harris,No,"Mr. Bacco, Mrs. Brucker, Mrs. Horzempa, Mrs. Kent, Mr. Laughton, Mr. Patterson, Mr. Rossi, Mr. Ruffolo"
+10/30/2024 18:32:09,Atreya,Achyuta,8th,Mr. Becker,No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mrs. Gielata, Mrs. A. Hoffman (7th grade), Mr. Laughton, Dr. Maurer, Mrs. Rebovich, Mr. Taylor"
+10/30/2024 19:40:43,Addae-Mensah,Cedric,7th,Mrs. Piccirilli,No,"Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Richman, Mr. Rossi, Mr. Ruffolo"
+10/30/2024 21:49:32,Jha ,Hansika,8th,Mrs. D. Hoffman (8th grade),No,"Mrs. M. Amato (Spanish), Mr. Finnerty, Mrs. Harris, Mrs. D. Hoffman (8th grade), Mrs. Horzempa, Mr. Mannarino, Mrs. Rebovich, Mr. Rossi"
+10/31/2024 8:04:39,Wachter,Anderson,7th,Mr. Oney,No,"Mrs. Beck, Mrs. Cremonese, Mr. Laughton, Mr. Oney, Mrs. Piccirilli, Mrs. Sisinni, Mrs. Wagner, Mrs. Windisch"
+10/31/2024 8:13:23,Sah,Prashant,7th,Mrs. Shimkoski,No,"Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Oney, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/31/2024 8:34:28,Pietropaolo,Chris,7th,Mr. Oney,No,"Mrs. M. Amato (Spanish), Mrs. Beck, Mr. Finnerty, Mr. Oney, Mr. Ruffolo, Mrs. Sisinni, Mr. West, Mrs. Windisch"
+10/31/2024 9:47:28,Shyam,Advai,7th,Mrs. Beinecke,No,"Mrs. M. Amato (Spanish), Mrs.  Beinecke, Mrs. A. Hoffman (7th grade), Mr. Laughton, Dr. Maurer, Mr. Oney, Mr. Rossi, Mr. Taylor"
+10/31/2024 9:51:31,Purdy,Eli,7th,Mrs. Piccirilli,No,"Mrs.  Beinecke, Mrs. Brucker, Mr. Finnerty, Mr. Oney, Mr. Patterson, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo"
+10/31/2024 9:54:46,Gladd,Lylah ,7th,Mrs. Piccirilli,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mrs. Horzempa, Mrs. Lally, Mr. Mannarino, Mrs. Piccirilli, Mr. Rossi"
+10/31/2024 9:55:30,Barth,Ali,7th,Mrs. Piccirilli,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Dr. Crimone, Mrs. Harris, Mrs. Kotts, Mrs. Pruss, Mr. West"
+10/31/2024 9:55:36,Kunaparaju,Harsha,7th,Mrs. Piccirilli,No,"Mr. Bacco, Mr. Laughton, Mr. Mannarino, Dr. Maurer, Mr. Oney, Mr. Picozzi, Mr. Ruffolo, Mr. Wazenegger"
+10/31/2024 9:58:30,veneski,haley,8th,Mr. Patterson,No,"Mrs. Austin, Mrs. Beck, Mrs. Clayton, Mrs. Harris, Mrs. Kent, Mrs. Nagel, Mr. Philipp, Mr. Popovic"
+10/31/2024 10:04:33,Aubin,Adley,7th,Mrs. Sisinni,No,"Dr. Crimone, Mr. Finnerty, Mrs. Hendal, Mrs. Horzempa, Mr. Mannarino, Mrs. Nagel, Mr. Oney, Mrs. Piccirilli"
+10/31/2024 10:05:04,Conway,Dylan,7th,Mrs. Sisinni,No,"Mrs. Horzempa, Mrs. Kent, Mr. Laughton, Mrs. Nagel, Mrs. Piccirilli, Mr. Ruffolo, Mr. Wazenegger, Mrs. Windisch"
+10/31/2024 10:05:25,Doniyorov,Abubakr,7th,Mrs. Sisinni,No,"Mrs. M. Amato (Spanish), Mrs. Brucker, Mrs. Clayton, Mrs. Horzempa, Mrs. Piccirilli, Mr. Popovic, Mrs. Wagner, Mrs. Windisch"
+10/31/2024 10:05:26,Joseph,Jack,7th,Mrs. Sisinni,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mrs. Lally, Mrs. Nagel, Mr. Rossi, Mr. West"
+10/31/2024 11:48:02,Kreuer,Danny,7th,Mr. Taylor,No,"Mrs.  Beinecke, Ms. Bianco, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Rossi, Mr. Taylor, Mrs. Windisch"
+10/31/2024 12:08:23,Nagavelli,Sathwik,8th,Mr. Picozzi,No,"Mr.  Becker, Mrs.  Beinecke, Mr. Finnerty, Dr. Maurer, Mr. Patterson, Mr. Picozzi, Mr. Rossi, Mr. West"
+10/31/2024 12:08:25,Lester,Mason,8th,Mrs. Speakman,No,"Mr. Bacco, Mr. Finnerty, Mr. Mannarino, Mr. Patterson, Mr. Picozzi, Mr. Richman, Mr. Rossi, Mrs. Shimkoski"
+10/31/2024 12:10:45,McElligott,Tyler,8th,Mr. Picozzi,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mr. Mannarino, Dr. Maurer, Mr. Picozzi, Mr. Rossi, Mr. West"
+10/31/2024 12:11:14,Johnson,Drew,8th,Mr. Picozzi,No,"Mrs.  Beinecke, Mr. Finnerty, Dr. Maurer, Mrs. Piccirilli, Mr. Picozzi, Mr. Rossi, Mrs. Sisinni, Mr. West"
+10/31/2024 12:16:58,Brletich,Savannah,8th,Mr. Picozzi,No,"Mrs. M. Amato (Spanish), Mr. Bacco, Mrs.  Beinecke, Ms. Bianco, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Oney, Mr. Richman"
+10/31/2024 12:26:46,Varadi,Dolika Yajna Havishya (Havi),8th,Mr. Popovic,No,"Mrs. Clayton, Mrs. Harris, Mrs. Horzempa, Mrs. Kent, Mr. Laughton, Mr. Philipp, Mr. Ruffolo, Mrs. Shober"
+10/31/2024 12:27:13,Akkipeddi,Sravya,8th,Mr. Popovic,No,"Mrs. Clayton, Mrs. Harris, Mrs. Horzempa, Mrs. Kent, Mr. Laughton, Mr. Philipp, Mr. Ruffolo, Mrs. Shober"
+10/31/2024 12:30:10,Sasikumar,Rithanya,8th,Mr. Patterson,No,"Mrs. Clayton, Mrs. Cremonese, Mrs. Goedert, Mr. Patterson, Mr. Philipp, Mr. Popovic, Mr. Richman, Mrs. Shimkoski"
+10/31/2024 12:30:12,Khan,Zayna,8th,Mr. Patterson,No,"Mrs. Clayton, Mrs. Cremonese, Mrs. Goedert, Mr. Patterson, Mr. Philipp, Mr. Popovic, Mr. Richman, Mrs. Shimkoski"
+10/31/2024 12:31:06,Rahim,Safia,8th,Mrs. Speakman,No,"Mrs. Clayton, Mrs. D. Hoffman (8th grade), Mr. Laughton, Mr. Mannarino, Mr. Picozzi, Mrs. Rebovich, Mr. Richman, Mrs. Tupper"
+10/31/2024 12:31:21,Raja,Sahana ,8th,"Mr. Richman, Mrs. Shimkoski",No,"Mrs. Clayton, Mrs. D. Hoffman (8th grade), Mr. Laughton, Mr. Mannarino, Mr. Picozzi, Mr. Richman, Mrs. Speakman, Mrs. Tupper"
+10/31/2024 12:41:13,Dave,Shree,8th,Mr. Picozzi,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Mrs. Hendal, Mr. Laughton, Mr. Picozzi, Mr. Popovic, Mr. Ruffolo, Mrs. Shimkoski"
+10/31/2024 12:42:01,Gertz,Oliver,8th,Mr. Becker,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Horzempa, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mrs. Windisch"
+10/31/2024 12:42:23,Lawrence,Mackenzie,8th,Mrs. D. Hoffman (8th grade),No,"Mr.  Becker, Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. Taylor"
+10/31/2024 12:42:50,Shelley,Johan,8th,Mrs. Balta,No,"Mr. Kruth, Mr. Mannarino, Ms. Minnetti, Mrs. Pruss, Mrs. Rebovich, Mr. Richman, Mr. Rossi, Mr. West"
+10/31/2024 12:49:07,Andrade,Aiden,8th,Mrs. Balta,No,"Mr.  Becker, Mrs. Gielata, Mrs. Guiser, Ms. Minnetti, Mrs. Rebovich, Mr. Richman, Mrs. Shimkoski, Mr. Wazenegger"
+10/31/2024 13:04:13,Kozar,Colton,8th,Mrs. Speakman,No,"Mrs. M. Amato (Spanish), Mr. Bacco, Mr.  Becker, Mr. Finnerty, Mrs. Horzempa, Mr. Litwinovich, Mr. Patterson, Mr. Rossi"
+10/31/2024 14:08:32,devlin,colton,8th,Mrs. Speakman,No,"Mrs. Cremonese, Dr. Crimone, Mr. Finnerty, Mr. Hall, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Dr. Maurer"
+10/31/2024 14:09:56,Golubnychiy,Tikhon,8th,Mrs. Balta,No,"Mr.  Becker, Mrs.  Beinecke, Ms. Bianco, Mrs. Gielata, Mr. Mannarino, Mr. Oney, Mrs. Piccirilli, Mrs. Rebovich"
+10/31/2024 14:13:10,Dague,Lily,7th,Mrs. Geraud,No,"Mrs. Beck, Mrs.  Beinecke, Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mrs. Hendal, Mrs. Horzempa"
+10/31/2024 14:13:11,kaupinis,connor,7th,Mrs. Geraud,No,"Mrs. Cremonese, Mr. Finnerty, Mr. Mannarino, Dr. Maurer, Ms. Minnetti, Mr. Richman, Mr. Rossi, Mr. Ruffolo"
+10/31/2024 14:13:35,Thirukumar ,Sanjit,7th,Mrs. Piccirilli,No,"Mrs.  Beinecke, Mrs. Brucker, Mrs. Clayton, Mr. Kruth, Mr. Mannarino, Mrs. Piccirilli, Mr. Ruffolo, Mrs. Tupper"
+10/31/2024 14:15:29,Dufort,Leah,7th,Mrs. Austin,No,"Mrs. Austin, Mrs.  Beinecke, Mrs. Cremonese, Dr. Crimone, Mrs. Harris, Mr. Laughton, Mrs. Piccirilli, Mrs. Windisch"
+10/31/2024 14:16:07,Gray,Greta,7th,Mrs. Piccirilli,No,"Mrs. Brucker, Mrs. Cremonese, Mr. Finnerty, Mr. Laughton, Mrs. Piccirilli, Mr. Rossi, Mr. Ruffolo, Mrs. Sisinni"
+10/31/2024 14:16:53,Forsythe,Kendall,7th,Mrs. Geraud,No,"Ms. Bianco, Mrs. Brucker, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Ms. Minnetti, Mr. Patterson, Mrs. Shimkoski, Mrs. Windisch"
+10/31/2024 14:17:27,Stephens,Levi,7th,Mr. Taylor,No,"Mr. Finnerty, Mr. Hall, Mr. Laughton, Mr. Mannarino, Mrs. Pruss, Mr. Richman, Mr. Ruffolo, Mr. West"
+10/31/2024 14:17:28,Chatanantavet,Korboon,7th,Mr. Richman,No,"Mrs. M. Amato (Spanish), Mrs. Donovan, Mr. Finnerty, Mr. Oney, Mrs. Perrott, Mr. Richman, Mrs. Shimkoski, Mrs. Tupper"
+10/31/2024 14:17:39,Cillo,Julia,7th,Mrs. Geraud,No,"Mrs. Beck, Mrs.  Beinecke, Ms. Bianco, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mrs. Hendal, Mrs. Horzempa, Mr. Richman"
+10/31/2024 14:18:08,Gurukunta,Ruthwik,7th,Mr. Richman,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mr. Richman, Mr. Rossi, Mrs. Shimkoski, Mr. West"
+10/31/2024 14:18:16,Ali,Lujain,8th,Mrs. Speakman,No,"Mrs. Beck, Mr. Hall, Mrs. Harris, Mrs. Horzempa, Mrs. Kent, Mr. Laughton, Mr. Philipp, Mr. Ruffolo"
+10/31/2024 14:18:56,Kamal,Aarib,7th,Mrs. Austin,No,"Mr. Bacco, Mrs.  Beinecke, Mr. Finnerty, Mrs. Harris, Mrs. Pruss, Mr. Ruffolo, Mr. Wazenegger, Mr. West"
+10/31/2024 14:19:06,Gercher,Ava,7th,Mr. Oney,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Horzempa, Mrs. Lally, Mr. Oney, Mrs. Perrott, Mr. Richman, Mrs. Shimkoski"
+10/31/2024 14:19:10,Purdy,Ella,7th,Mrs. Beinecke,No,"Mrs. Cremonese, Dr. Crimone, Mrs. Fagan/Mrs. Vouvalis, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Kent, Mr. Oney, Mrs. Pruss"
+10/31/2024 14:19:22,Madivada,Aditya,7th,Mr. Richman,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Brucker, Mrs. A. Hoffman (7th grade), Mrs. Kotts, Mr. Laughton, Mr. Litwinovich, Mr. West"
+10/31/2024 14:19:49,Patel,Shreena,7th,Mr. Oney,No,"Mrs. B. Amato (6th grade), Mrs. Austin, Ms. Bianco, Mrs. Cremonese, Dr. Crimone, Mrs. Hendal, Mrs. Piccirilli, Mr. Ruffolo"
+10/31/2024 14:20:37,Basu,Soumava,7th,Mr. Richman,No,"Mrs. Beck, Ms. Bianco, Mr. Finnerty, Dr. Maurer, Mr. Perrott, Mr. Richman, Mr. Rossi, Mr. West"
+10/31/2024 14:21:39,Fordeley,Quintin,7th,Mr. Richman,No,"Mr. Bacco, Mr. Finnerty, Mr. Mannarino, Mr. Patterson, Mr. Richman, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/31/2024 14:21:59,Biernacki,Paige,7th,Mrs. Piccirilli,No,"Mrs.  Beinecke, Mrs. Cremonese, Mr. Finnerty, Mrs. Horzempa, Mr. Patterson, Mrs. Piccirilli, Mr. Richman, Mrs. Windisch"
+10/31/2024 14:22:01,Acharya,Sophia,7th,Mrs. Piccirilli,No,"Mrs.  Beinecke, Mrs. Harris, Mrs. Kent, Mr. Oney, Mrs. Piccirilli, Mr. Ruffolo, Mrs. Sisinni, Mrs. Wagner"
+10/31/2024 14:22:34,Warner,Lilah,7th,Mrs. Piccirilli,No,"Mr. Finnerty, Mrs. Horzempa, Mr. Patterson, Mrs. Perrott, Mrs. Piccirilli, Mr. Richman, Mr. Rossi, Mr. West"
+10/31/2024 14:22:44,Berkley ,Berkley ,7th,Mrs. Harris,No,"Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mrs. Kent, Mr. Laughton, Mr. Oney, Mr. Patterson, Mrs. Shober, Mr. West"
+10/31/2024 14:23:13,Tandon,Lana,7th,Mr. Oney,No,"Ms. Bianco, Mrs. Clayton, Mrs. Cremonese, Mrs. Fagan/Mrs. Vouvalis, Mrs. Kent, Mrs. Piccirilli, Mrs. Sisinni, Mrs. Tupper"
+10/31/2024 14:24:50,Nolder,Delaney,7th,Mrs. Harris,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mrs. Lally, Mrs. Nagel, Mrs. Pruss, Mr. West"
+10/31/2024 14:24:50,Hindman,Reece,7th,Mrs. Harris,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mrs. Lally, Mrs. Nagel, Mrs. Pruss, Mr. West"
+10/31/2024 14:25:44,Clark,Kennedy,7th,Mrs. Austin,No,"Mrs. Austin, Mrs. Cremonese, Mrs. Harris, Mrs. Hendal, Mrs. Horzempa, Mrs. Kent, Mrs. Nagel, Mrs. Perrott"
+10/31/2024 14:26:17,Barish,Erynn,8th,Mr. Popovic,No,"Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Mr. Oney, Mr. Patterson, Mr. Philipp, Mrs. Piccirilli, Mr. Wazenegger"
+10/31/2024 14:26:42,NADKARNI,AMEE,8th,Mrs. Gielata,No,"Mr. Bacco, Mrs. Harris, Mrs. Horzempa, Mrs. Nagel, Mr. Patterson, Mrs. Rebovich, Mr. Richman, Mrs. Shimkoski"
+10/31/2024 14:26:51,McCaffrey,Connor ,8th,Mrs. Goedert,No,"Mr. Finnerty, Mr. Hall, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Philipp, Mr. Popovic, Mr. Rossi"
+10/31/2024 14:28:04,Flores ,Mateo,7th,Mrs. Geraud,No,"Mr. Finnerty, Mrs. Geraud, Mrs. Lally, Mr. Mannarino, Mrs. Nix, Mrs. Perrott, Mr. Richman, Mrs. Wagner"
+10/31/2024 14:28:29,Dennison,Harper,7th,Mrs. Piccirilli,No,"Mrs. Cremonese, Mrs. Harris, Mrs. Horzempa, Mrs. Kent, Mrs. Kotts, Mrs. Perrott, Mrs. Piccirilli, Mr. Rossi"
+10/31/2024 14:28:56,Hasan,Hafiz,8th,Mrs. Balta,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Mr. Hall, Mrs. Harris, Mrs. D. Hoffman (8th grade), Dr. Maurer, Mr. Perrott, Mr. Rossi"
+10/31/2024 14:29:57,Rivera,Carter,8th,Mrs. Gielata,No,"Mr. Bacco, Mr.  Becker, Mrs. Clayton, Mr. Finnerty, Mrs. Harris, Mr. Perrott, Mr. Richman, Mr. Rossi"
+10/31/2024 14:30:01,Krocker,Travis,7th,Mrs. Austin,No,"Mrs. Austin, Mr. Finnerty, Mrs. Harris, Mrs. Horzempa, Dr. Maurer, Mrs. Pruss, Mr. Rossi, Mr. West"
+10/31/2024 14:30:08,Siddireddy,Sai Bhavana,8th,Mrs. Balta,No,"Mr. Bacco, Mr.  Becker, Mrs. Gielata, Mrs. Harris, Mrs. Horzempa, Mrs. Nagel, Mr. Patterson, Mrs. Shimkoski"
+10/31/2024 14:30:36,djuraev,Mukhammadali,8th,Mrs. Goedert,No,"Mrs. B. Amato (6th grade), Mrs. M. Amato (Spanish), Mr. Bacco, Mr.  Becker, Ms. Bianco, Mr. Finnerty, Mrs. Geraud, Mrs. Kent"
+10/31/2024 14:30:39,Bailey,Aubrie,8th,Mrs. D. Hoffman (8th grade),No,"Mr.  Becker, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Richman, Mrs. Shimkoski"
+10/31/2024 14:31:38,Mager,Olivia,8th,Mrs. Gielata,No,"Ms. Bianco, Mrs. Clayton, Mrs. Gielata, Mrs. D. Hoffman (8th grade), Mrs. McCourt, Mrs. Rebovich, Mrs. Sisinni, Mrs. Speakman"
+10/31/2024 14:32:38,Stites,Austin,8th,Mrs. Goedert,No,"Mrs. Harris, Dr. Maurer, Mr. Patterson, Mr. Philipp, Mr. Picozzi, Mr. Popovic, Mr. Rossi, Mr. West"
+10/31/2024 14:33:05,Eisel,Connor,8th,Mrs. Gielata,No,"Mrs.  Beinecke, Mr. Finnerty, Mrs. Gielata, Mrs. Fagan/Mrs. Vouvalis, Mrs. A. Hoffman (7th grade), Mr. Oney, Mrs. Rebovich, Mr. Rossi"
+10/31/2024 14:33:09,Tamanini,Alexa,8th,"Mr. Bacco, Mrs. Gielata",No,"Mr. Bacco, Mr.  Becker, Mrs.  Beinecke, Mrs. Brucker, Mrs. Gielata, Mrs. Hendal, Mrs. Nagel, Mr. Richman"
+10/31/2024 14:33:16,Imran ,Maryam,7th,Mrs. Harris,No,"Mrs. M. Amato (Spanish), Mrs. Cremonese, Mrs. Goedert, Mrs. Guiser, Mrs. Harris, Mr. Oney, Mr. Philipp, Mr. West"
+10/31/2024 14:33:32,Patil,Aarya,8th,Mrs. Gielata,No,"Mrs. Geraud, Mrs. Gielata, Mrs. Harris, Mrs. Nagel, Mr. Patterson, Mr. Popovic, Mrs. Rebovich, Mr. Ruffolo"
+10/31/2024 14:33:34,Cox,Piper,8th,Mrs. Gielata,No,"Mr.  Becker, Mrs.  Beinecke, Mrs. Gielata, Mrs. Kent, Mr. Laughton, Mrs. Piccirilli, Mrs. Rebovich, Mrs. Sisinni"
+10/31/2024 14:34:16,Melimi,Charith,8th,Mr. Bacco,No,"Mr. Bacco, Mrs. Beck, Mrs. Kotts, Dr. Maurer, Mr. Oney, Mr. Picozzi, Mrs. Pruss, Mrs. Sisinni"
+10/31/2024 14:34:29,Cataldo,Wyatt,7th,Mrs. Harris,No,"Mr. Finnerty, Mrs. Harris, Mr. Laughton, Mr. Mannarino, Mrs. Shober, Mr. Wazenegger, Mr. West, Mrs. Windisch"
+10/31/2024 14:34:45,Saad,Danny,8th,Mrs. D. Hoffman (8th grade),No,"Mr. Bacco, Mrs.  Beinecke, Mr. Finnerty, Mr. Laughton, Dr. Maurer, Mr. Patterson, Mr. Rossi, Mr. West"
+10/31/2024 14:34:47,Krobot,Jayden,8th,Mr. Bacco,No,"Mrs. Austin, Mr. Bacco, Mr. Finnerty, Mrs. Harris, Mrs. Kent, Mr. Rossi, Mr. Ruffolo, Mr. West"
+10/31/2024 14:35:12,pettinato,jonathan,8th,Mr. Bacco,No,"Mrs. Austin, Mr. Bacco, Mrs. Kotts, Mr. Oney, Mr. Patterson, Mrs. Piccirilli, Mr. Rossi, Mr. West"
+10/31/2024 14:35:28,Davis,Ari,8th,Mr. Bacco,No,"Mr. Bacco, Mrs. Cremonese, Mr. Finnerty, Mrs. Harris, Mrs. Horzempa, Mr. Mannarino, Mr. Picozzi, Mr. Wazenegger"
+10/31/2024 14:35:47,Petryk,Piper,8th,Mr. Philipp,No,"Mrs. Beck, Mrs. Brucker, Mrs. Clayton, Mrs. Cremonese, Mrs. Kent, Mr. Mannarino, Mr. Philipp, Mr. Wazenegger"
+10/31/2024 14:35:49,Ekhtiar,Tahsan,8th,Mrs. D. Hoffman (8th grade),No,"Mr. Bacco, Mr. Finnerty, Mr. Mannarino, Mr. Patterson, Mr. Popovic, Mr. Richman, Mr. Rossi, Mr. West"
+10/31/2024 14:36:24,Davis,Brynn,8th,Mrs. Balta,No,"Mrs. M. Amato (Spanish), Mr.  Becker, Mr. Laughton, Mrs. Nagel, Mr. Oney, Mr. Patterson, Mr. Richman, Mrs. Sisinni"
+10/31/2024 14:36:26,russell,lindy,8th,Mrs. D. Hoffman (8th grade),No,"Mr.  Becker, Mr. Finnerty, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Richman, Mrs. Shimkoski"
+10/31/2024 14:36:50,mcluckie,sophia,8th,Mrs. Goedert,No,"Mrs. Austin, Mrs. Brucker, Mrs. Harris, Mrs. Kent, Mr. Patterson, Mr. Philipp, Mr. Popovic, Mr. Richman"
+10/31/2024 14:36:56,Arunkumar,Netrashree,8th,Mrs. Gielata,No,"Mrs. Cremonese, Mrs. Gielata, Mrs. D. Hoffman (8th grade), Mr. Laughton, Ms. Minnetti, Mrs. Nagel, Mrs. Perrott, Mrs. Rebovich"
+10/31/2024 14:36:59,Romano,Tristyn,8th,Mrs. D. Hoffman (8th grade),No,"Mrs. B. Amato (6th grade), Mr. Bacco, Mrs.  Beinecke, Mr. Finnerty, Mrs. D. Hoffman (8th grade), Mrs. Horzempa, Mr. Oney, Mr. Rossi"
+10/31/2024 14:37:14,wurzler,Killian,8th,Mr. Popovic,No,"Ms. Bianco, Mrs. Clayton, Mr. Finnerty, Mr. Mannarino, Mr. Patterson, Mr. Richman, Mr. Rossi, Mrs. Shimkoski"
+10/31/2024 14:38:12,Hiser,Gavin,8th,Mrs. Balta,No,"Mr. Bacco, Mr. Finnerty, Mr. Litwinovich, Mr. Patterson, Mr. Picozzi, Mr. Richman, Mr. Rossi, Mrs. Shimkoski"
+10/31/2024 14:39:12,mares,vid,8th,Mr. Becker,No,"Mrs.  Beinecke, Dr. Crimone, Mrs. Hendal, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Rossi, Mr. Ruffolo, Mrs. Shober"
+10/31/2024 14:39:22,Srikanth,Kavin,8th,Mr. Becker,No,"Mr.  Becker, Mrs.  Beinecke, Mr. Finnerty, Mrs. A. Hoffman (7th grade), Mrs. Horzempa, Mr. Laughton, Mr. Rossi, Mr. West"
+10/31/2024 14:39:52,Roberts,Addison ,8th,"Mr. Philipp, Mr. Popovic",No,"Mrs. Beck, Mrs. Brucker, Mrs. Clayton, Mrs. Cremonese, Mrs. Kent, Mr. Mannarino, Mr. Philipp, Mr. Wazenegger"
+10/31/2024 14:39:52,Speer,Reagan,8th,Mr. Popovic,No,"Mrs. Beck, Mrs. Brucker, Mrs. Clayton, Mrs. Cremonese, Mrs. Kent, Mr. Mannarino, Mr. Philipp, Mr. Wazenegger"
+10/31/2024 14:40:54,Howarth,Tyler,8th,Mr. Litwinovich,No,"Mr. Finnerty, Mr. Kruth, Mr. Mannarino, Dr. Maurer, Ms. Minnetti, Mr. Picozzi, Mr. Rossi, Mrs. Shimkoski"
+10/31/2024 14:41:41,Bharani,Tanusri,8th,Mr. Becker,No,"Mr.  Becker, Mrs. Cremonese, Mrs. Gielata, Mrs. A. Hoffman (7th grade), Mrs. D. Hoffman (8th grade), Mrs. Shober, Mr. Taylor, Mrs. Tupper"
+10/31/2024 14:41:42,Mehta,Tiara,8th,Mr. Becker,No,"Mr.  Becker, Mrs. Cremonese, Mrs. Gielata, Mrs. A. Hoffman (7th grade), Mrs. D. Hoffman (8th grade), Mrs. Shober, Mr. Taylor, Mrs. Tupper"
+10/31/2024 14:41:42,Bandlamudi,Tanvi,8th,Mr. Becker,No,"Mr.  Becker, Mrs. Cremonese, Mrs. Gielata, Mrs. A. Hoffman (7th grade), Mrs. D. Hoffman (8th grade), Mrs. Shober, Mr. Taylor, Mrs. Tupper"
+10/31/2024 14:42:53,Chaudhary,Alishah,8th,Mr. Bacco,No,"Mr. Bacco, Mr.  Becker, Mrs.  Beinecke, Mrs. Kress, Mr. Mannarino, Mrs. McCourt, Mr. Oney, Mr. Philipp"
+10/31/2024 14:46:07,Klement,Myla,8th,Mr. Philipp,No,"Mrs. B. Amato (6th grade), Mr. Finnerty, Ms. Minnetti, Mr. Patterson, Mr. Philipp, Mr. Richman, Mrs. Shimkoski, Mr. Wazenegger"
+10/31/2024 14:48:22,Miller,Vivian,8th,Mr. Popovic,No,"Mrs. B. Amato (6th grade), Mrs.  Beinecke, Mrs. Clayton, Ms. Minnetti, Mr. Oney, Mr. Philipp, Mrs. Piccirilli, Mr. Wazenegger"
+10/31/2024 14:50:56,Giraldo,Sarah ,7th,Mrs. Piccirilli,No,"Mrs. Cremonese, Mr. Finnerty, Mrs. Lally, Mr. Laughton, Mr. Oney, Mr. Patterson, Mrs. Piccirilli, Mrs. Sisinni"
+11/1/2024 15:43:50,tuncer,elif,7th,Mrs. Shimkoski,No,"Mrs. M. Amato (Spanish), Mrs. Brucker, Mrs. Cremonese, Mrs. A. Hoffman (7th grade), Mr. Richman, Mrs. Shimkoski, Mrs. Tupper, Mrs. Windisch"
+11/4/2024 11:21:25,gilmore,tiras,7th,"Mrs. Austin, Mrs. Harris",No,"Mr. Finnerty, Mrs. Harris, Mrs. Horzempa, Mrs. Lally, Mr. Mannarino, Dr. Maurer, Mr. Rossi, Mr. West"
+11/4/2024 11:21:51,Afoa,Angellina,7th,Mrs. Austin,No,"Mrs. Brucker, Mrs. Gielata, Mr. Hall, Mr. Kruth, Mr. Laughton, Mr. Ruffolo, Mrs. Tupper, Mrs. Windisch"
+11/4/2024 11:23:51,Chaussard,Deakin ,7th,Mrs. Austin,No,"Mr. Barnhart, Mr. Finnerty, Mr. Laughton, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. Ruffolo, Mr. West"
+11/4/2024 11:26:30,crouse,brayden,7th,"Mrs. Austin, Mrs. Harris",No,"Mr. Finnerty, Mrs. Harris, Mrs. Lally, Mr. Mannarino, Mrs. Nagel, Mr. Ruffolo, Mrs. Thomas, Mr. West"
+11/4/2024 11:26:34,Morton,Mckenna,7th,Mrs. Shimkoski,No,"Mr. Bacco, Mrs. Clayton, Mrs. Cremonese, Mr. Finnerty, Mrs. Horzempa, Mr. Mannarino, Mr. Rossi, Mr. West"
+11/4/2024 11:31:38,Kanojiya,Driti,7th,Mrs. Austin,No,"Mrs. M. Amato (Spanish), Mrs. Clayton, Dr. Crimone, Mrs. Harris, Mrs. Hendal, Ms. Minnetti, Mrs. Tupper, Mr. West"
+11/4/2024 12:43:28,Alazmi,Orjuwan,7th,Mrs. Harris,No,"Mrs. B. Amato (6th grade), Ms. Bianco, Mrs. Cremonese, Mrs. Harris, Mrs. Kent, Mrs. Nagel, Mrs. Perrott, Mr. Rossi"
+11/4/2024 14:18:43,Naijin,Devika,8th,Mr. Becker,No,"Mrs.  Beinecke, Mrs. Clayton, Dr. Crimone, Mr. Laughton, Mr. Oney, Mr. Philipp, Mr. Richman, Mrs. Shimkoski"
+11/4/2024 17:13:23,Motlakunta,Sana,8th,Mr. Becker,No,"Mrs.  Beinecke, Mrs. Cremonese, Mrs. Hendal, Mrs. Horzempa, Mr. Laughton, Mr. Mannarino, Mr. Philipp, Mr. Rossi"
+11/4/2024 17:24:14,Yuvaraj,Oviya,7th,Mrs. A. Hoffman (7th grade),No,"Mrs. Beck, Mrs.  Beinecke, Mrs. A. Hoffman (7th grade), Mr. Laughton, Mr. Mannarino, Mrs. McCourt, Mrs. Shober, Mrs. Tupper"
+11/4/2024 19:57:17,Rynn,Anna,8th,Mr. Litwinovich,No,"Mr. Bacco, Mrs.  Beinecke, Mrs. Brucker, Dr. Crimone, Mrs. Horzempa, Mrs. Piccirilli, Mr. Ruffolo, Mrs. Sisinni"
+11/4/2024 21:43:04,Uppu,Tejas,8th,Mrs. Balta,No,"Mr. Mannarino, Dr. Maurer, Mrs. Nix, Mr. Perrott, Mrs. Rebovich, Mr. Richman, Mr. Ruffolo, Mr. Wazenegger"
+11/4/2024 23:35:00,hetzlein,christian,7th,Mrs. A. Hoffman (7th grade),No,"Mr. Barnhart, Mrs.  Beinecke, Mr. Finnerty, Mr. Kruth, Mr. Mannarino, Mr. Patterson, Mr. Rossi, Mr. West"
+11/5/2024 8:15:38,Miller,Colton,8th,Mr. Litwinovich,No,"Mr. Bacco, Mr. Finnerty, Mr. Hall, Mr. Oney, Mr. Picozzi, Mr. Rossi, Mr. Ruffolo, Mr. West"
+11/5/2024 12:31:38,Palanivel,Kavin,8th,Mr. Becker,No,"Mrs. M. Amato (Spanish), Mr.  Becker, Mr. Finnerty, Mrs. D. Hoffman (8th grade), Mr. Laughton, Mr. Perrott, Mr. Taylor, Mrs. Tupper"
+11/5/2024 16:12:07,Wang,Ruiya,8th,Mr. Litwinovich,No,"Mr. Bacco, Mrs.  Beinecke, Mrs. Clayton, Mr. Mannarino, Mr. Oney, Mrs. Piccirilli, Mr. Picozzi, Mrs. Wagner"
+11/6/2024 10:14:11,Martinez,Lyla,8th,Mrs. Speakman,No,"Mr. Bacco, Mrs.  Beinecke, Mrs. Clayton, Mr. Mannarino, Mr. Oney, Mrs. Piccirilli, Mr. Picozzi, Mrs. Wagner"
+10/24/2024 10:54:32,Ropar,Micah,8th,Mrs. Goedert,Yes,
+10/24/2024 11:04:14,kunkel,adrianne,8th,Mr. Litwinovich,Yes,
+10/24/2024 11:40:25,Gatto,Vincent,7th,Mr. Taylor,Yes,
+10/24/2024 11:40:35,Liu,Julie,7th,Mr. Taylor,Yes,
+10/24/2024 11:40:57,Manojanand,Dhruv,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/24/2024 11:41:07,Zachariah,Mikhail,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/24/2024 11:41:19,DeWitt,Isla,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/24/2024 11:41:54,Stepp,Preston,7th,Mr. Taylor,Yes,
+10/24/2024 11:42:37,Creahan,Brennan,7th,Mr. Taylor,Yes,
+10/24/2024 12:50:55,malezi,AKil,7th,Mrs. Geraud,Yes,
+10/24/2024 12:55:17,Arora,Aarna,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/24/2024 13:23:24,Kondreddi,Gaatrika,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/24/2024 13:23:51,Kolli,Meghana,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/24/2024 13:27:24,Sullivan,Alaina,7th,Mr. Taylor,Yes,
+10/24/2024 13:28:00,Rustamov,Rajabali,7th,"Mrs. Beinecke, Mr. Taylor",Yes,
+10/24/2024 13:46:56,Peters,Koe,7th,Mr. Taylor,Yes,
+10/24/2024 14:15:28,Sakthi,Abhinav,7th,Mr. Richman,Yes,
+10/24/2024 14:21:10,Allan,Emily,7th,Mr. Richman,Yes,
+10/24/2024 14:29:43,Lammert,Miles,7th,Mr. Richman,Yes,
+10/24/2024 14:30:39,Dietrich,Natalie,7th,Mrs. Beinecke,Yes,
+10/24/2024 14:31:45,Krocker,Jaiyah,7th,Mrs. Beinecke,Yes,
+10/24/2024 14:32:18,Mantick,Malena,7th,Mrs. Beinecke,Yes,
+10/24/2024 14:32:20,Gibson,Elena,7th,Mrs. Shimkoski,Yes,
+10/24/2024 14:32:36,Patel,Diya,7th,Mr. Oney,Yes,
+10/24/2024 14:32:38,Ganesh,Vivaan,7th,Mrs. Beinecke,Yes,
+10/24/2024 14:36:03,Raja,Nithin,7th,Mrs. Beinecke,Yes,
+10/24/2024 14:36:04,Magudamudi,Yuga,7th,Mrs. Geraud,Yes,
+10/24/2024 14:39:18,Cuthbertson,Max,7th,Mrs. Geraud,Yes,
+10/24/2024 15:43:53,Gioia,Maggie,7th,Mrs. Geraud,Yes,
+10/24/2024 16:26:38,Spero,Nicholas,7th,Mrs. Sisinni,Yes,
+10/24/2024 16:57:21,Martini,Marina,7th,Mr. Richman,Yes,
+10/24/2024 18:55:01,Young,Chloe,8th,Mr. Bacco,Yes,
+10/24/2024 21:54:25,Cannon,Maguire ,7th,Mrs. Geraud,Yes,
+10/25/2024 7:21:17,Rathi,Ruchit,8th,Mr. Becker,Yes,
+10/25/2024 8:01:44,Taylor,Adelyn,7th,Mrs. Geraud,Yes,
+10/25/2024 8:50:03,prasad,Nikhil,7th,Mrs. Austin,Yes,
+10/25/2024 9:50:00,Quinteros,Owen,7th,Mr. Richman,Yes,
+10/25/2024 10:20:15,Liashko,Daniel,7th,Mrs. Beinecke,Yes,
+10/25/2024 10:20:28,Saminathan,Kaviya,7th,Mrs. Beinecke,Yes,
+10/25/2024 10:20:44,Kanteti,Srisathwik ,7th,Mrs. Beinecke,Yes,
+10/25/2024 10:45:51,Ribadiya,Mahek,7th,Mrs. Beinecke,Yes,
+10/25/2024 11:11:52,Mahammad Abdul,Rasikh Arhan,7th,Mrs. Geraud,Yes,
+10/25/2024 11:46:37,McShane ,Nora,7th,Mrs. Harris,Yes,
+10/25/2024 13:32:22,Pickell,Ciara,7th,Mrs. A. Hoffman (7th grade),Yes,
+10/25/2024 13:46:56,Kinzie,Jonathan,8th,Mrs. Goedert,Yes,
+10/25/2024 14:44:02,Jose,Sarah Olivia,7th,Mrs. Harris,Yes,
+10/25/2024 14:45:04,Alex,willy ,7th,Mrs. Harris,Yes,
+10/26/2024 11:32:51,Lawrence,Cam,7th,Mr. Richman,Yes,
+10/27/2024 16:48:06,Remtulla,Alivia,8th,Mr. Popovic,Yes,
+10/28/2024 8:02:35,swanson,owen,7th,Mrs. Geraud,Yes,
+10/28/2024 8:47:17,Huff,Baya,8th,Mrs. Speakman,Yes,
+10/28/2024 8:49:25,Escudero,Valentina,7th,Mr. Richman,Yes,
+10/28/2024 9:04:12,Grella,Molly,8th,Mr. Becker,Yes,
+10/28/2024 9:19:37,Selden,Allyson,7th,Mrs. Shimkoski,Yes,
+10/28/2024 14:26:58,Malezi,Annika,7th,Mrs. Geraud,Yes,
+10/28/2024 14:29:17,Harris,Ashlyn,7th,Mr. Oney,Yes,
+10/28/2024 14:29:21,Meehan,Jayden,7th,Mrs. Geraud,Yes,
+10/28/2024 14:29:31,Kohnfelder,Adelyn,7th,Mr. Oney,Yes,
+10/28/2024 14:29:54,Darakos,Harry,7th,Mr. Oney,Yes,
+10/28/2024 14:30:32,orlando,michael,7th,Mr. Oney,Yes,
+10/28/2024 14:31:31,Rush,Sarah,7th,Mrs. Geraud,Yes,
+10/28/2024 14:36:44,Magudamudi,Yuga,7th,Mrs. Geraud,Yes,
+10/28/2024 14:48:33,Werksman,Ewan,7th,Mrs. Geraud,Yes,
+10/28/2024 15:36:14,Vierra,Casen,7th,Mr. Richman,Yes,
+10/28/2024 16:24:00,Racha,Vihaan,7th,Mrs. Geraud,Yes,
+10/28/2024 19:11:30,Eldaher,Leah Eldaher,7th,Mrs. Harris,Yes,
+10/29/2024 9:01:14,Meier,Sierra,7th,Mrs. Shimkoski,Yes,
+10/29/2024 14:34:32,Lininger,Brandon,7th,Mrs. Sisinni,Yes,
+10/30/2024 8:08:50,Reed ,Luca,7th,Mrs. Sisinni,Yes,
+10/30/2024 8:23:45,Bailey,Evan,8th,Mrs. Speakman,Yes,
+10/30/2024 12:59:17,Deklewa,Callie,8th,Mr. Philipp,Yes,
+10/30/2024 15:08:15,Galish,Payton,8th,Mrs. Speakman,Yes,
+10/30/2024 15:10:26,Rossi,Silvanna,8th,Mr. Litwinovich,Yes,
+10/30/2024 15:11:06,Solomon,Haley,8th,Mrs. Speakman,Yes,
+10/30/2024 15:14:04,Dedes,Reagan,8th,Mr. Litwinovich,Yes,
+10/30/2024 20:18:03,Diaz-Bazan,Ana,7th,Mrs. Austin,Yes,
+10/31/2024 8:01:39,DiMarco,Joseph,7th,Mr. Richman,Yes,
+10/31/2024 8:04:49,Mount,Carter,7th,Mrs. Shimkoski,Yes,
+10/31/2024 8:10:07,Bhupathiraju,Aneesh,7th,Mrs. Shimkoski,Yes,
+10/31/2024 9:06:31,Dewey,Marley,7th,Mrs. Shimkoski,Yes,
+10/31/2024 9:49:28,Melville,Rory,7th,Mrs. Piccirilli,Yes,
+10/31/2024 9:49:38,Gensler,Grayson,7th,Mrs. Shimkoski,Yes,
+10/31/2024 9:51:49,Dunlap,Zoe,7th,Mrs. Piccirilli,Yes,
+10/31/2024 10:03:38,Pihlblad,Hope,7th,Mrs. Sisinni,Yes,
+10/31/2024 10:04:38,Homer,Brooklyn,7th,Mrs. Sisinni,Yes,
+10/31/2024 10:05:09,Smolinski,Brielle,7th,Mrs. Sisinni,Yes,
+10/31/2024 10:56:59,Makrucki,Mason,7th,Mrs. Austin,Yes,
+10/31/2024 11:46:01,Orchowski,Tristan,7th,Mrs. Beinecke,Yes,
+10/31/2024 11:46:53,Lewandowski,Alara,7th,Mr. Taylor,Yes,
+10/31/2024 11:47:52,Luffy,Deacon,7th,Mr. Taylor,Yes,
+10/31/2024 12:00:17,Milharcic,CJ,8th,Mr. Picozzi,Yes,
+10/31/2024 12:01:05,Dean,Connor ,8th,Mr. Picozzi,Yes,
+10/31/2024 12:01:09,Martin,Tanner,8th,Mr. Picozzi,Yes,
+10/31/2024 12:03:02,Hermann,Madison,8th,Mr. Picozzi,Yes,
+10/31/2024 12:05:11,arture,makenna,8th,Mr. Picozzi,Yes,
+10/31/2024 12:06:15,Brennan,Elizabeth,8th,Mr. Picozzi,Yes,
+10/31/2024 12:11:24,Quinn,Ava,8th,Mr. Picozzi,Yes,
+10/31/2024 12:11:49,Huff,Colton,8th,Mr. Bacco,Yes,
+10/31/2024 12:15:15,estellon,max,8th,Mr. Picozzi,Yes,
+10/31/2024 12:22:50,Huber,Wrennon,8th,Mr. Patterson,Yes,
+10/31/2024 12:24:01,Scott,sara,8th,Mrs. Goedert,Yes,
+10/31/2024 12:38:53,Rumberger,Kenzie,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 12:40:05,Dey,Ahana,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 12:41:47,Vidak,Alaina,8th,Mrs. Balta,Yes,
+10/31/2024 12:41:58,Crull,Nick,8th,Mrs. Balta,Yes,
+10/31/2024 12:42:07,DeMasi,Lorenzo,8th,Mrs. Balta,Yes,
+10/31/2024 12:42:09,Stanley,Evan,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 12:45:03,vogt,ella,8th,Mrs. Speakman,Yes,
+10/31/2024 12:45:24,Shubert,Maddux,8th,Mrs. Balta,Yes,
+10/31/2024 12:45:49,Cerrone,Amelia,8th,Mrs. Balta,Yes,
+10/31/2024 12:46:22,Lyons ,Aiden ,8th,Mrs. Gielata,Yes,
+10/31/2024 12:46:33,Chavan,Utkarsh,8th,Mrs. Balta,Yes,
+10/31/2024 12:47:00,Dutta Majumder,Devesh,8th,"Mrs. Balta, Mrs. A. Hoffman (7th grade)",Yes,
+10/31/2024 12:47:35,cernicky,braden,8th,Mrs. Speakman,Yes,
+10/31/2024 12:47:46,Schultz,John,8th,Mrs. Balta,Yes,
+10/31/2024 12:47:51,Kelly,Caroline,8th,Mrs. Balta,Yes,
+10/31/2024 12:48:06,Barksdale,Liam,8th,Mrs. Balta,Yes,
+10/31/2024 12:48:12,Faro,David,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 13:33:18,Matusic,Rocco,8th,Mr. Becker,Yes,
+10/31/2024 13:36:45,Sperry,Alexis,8th,Mr. Litwinovich,Yes,
+10/31/2024 13:47:11,Tiwari,Anahita,8th,Mrs. Speakman,Yes,
+10/31/2024 14:11:47,Belardi,Ella,7th,Mrs. Shimkoski,Yes,
+10/31/2024 14:12:05,Conte,Carolyn,7th,Mrs. Shimkoski,Yes,
+10/31/2024 14:13:12,Mazurkiewicz,Ava,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:14:27,Kuhn,Abby,7th,Mrs. Austin,Yes,
+10/31/2024 14:14:33,Moran ,Mia,7th,Mrs. Austin,Yes,
+10/31/2024 14:14:34,LaMendola,Nick,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:15:00,Barth,Daphne,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:15:27,fordeley,sawyer,7th,Mrs. Beinecke,Yes,
+10/31/2024 14:15:51,Rynn,Caroline,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:16:02, Nanda,Abhijay,7th,Mr. Oney,Yes,
+10/31/2024 14:16:05,Alla,Anjali,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:16:05,Shubert,Avery,7th,Mr. Oney,Yes,
+10/31/2024 14:16:12,Hick,Delaney,7th,Mr. Richman,Yes,
+10/31/2024 14:16:16,Stiver,Henry,7th,Mrs. Geraud,Yes,
+10/31/2024 14:16:18,Jackson,Luke,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:16:20,Walsh,Charlie,7th,Mr. Oney,Yes,
+10/31/2024 14:16:22,Levy,Noah,7th,Mr. Oney,Yes,
+10/31/2024 14:17:16,Kishore,Madhav,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:17:18,Valentino,Lance,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:17:22,Uhrin,Kinsley,7th,Mr. Oney,Yes,
+10/31/2024 14:17:39,Lininger,Brandon,7th,Mrs. Sisinni,Yes,
+10/31/2024 14:17:45,Reese,Frank,7th,Mr. Oney,Yes,
+10/31/2024 14:18:49,Thomas,Nora,7th,Mrs. Sisinni,Yes,
+10/31/2024 14:18:59,Miller,Sophie,7th,Mr. Oney,Yes,
+10/31/2024 14:19:27,Vasquez,Ramon,7th,Mr. Oney,Yes,
+10/31/2024 14:20:25,MacKenzie,Arleigh,7th,Mrs. Piccirilli,Yes,
+10/31/2024 14:21:01,Dulick,Jacob ,7th,Mrs. Harris,Yes,
+10/31/2024 14:21:02,Galla,Nikita,7th,Mrs. Harris,Yes,
+10/31/2024 14:21:36,Hindman,Reece,7th,Mrs. Harris,Yes,
+10/31/2024 14:21:50,Baiano,Dom,7th,Mrs. Harris,Yes,
+10/31/2024 14:23:38,yeo,madison,7th,Mr. Oney,Yes,
+10/31/2024 14:24:28,Segura,Warren,7th,Mrs. Harris,Yes,
+10/31/2024 14:24:43,Meer ,Zuhair,7th,Mrs. Harris,Yes,
+10/31/2024 14:25:09,Cain,Natalie,8th,Mrs. Goedert,Yes,
+10/31/2024 14:25:15,conner,chloe,8th,Mr. Popovic,Yes,
+10/31/2024 14:26:00,Tully,Nathaniel,7th,Mrs. Austin,Yes,
+10/31/2024 14:26:06,Schrock,Maria,8th,Mrs. Goedert,Yes,
+10/31/2024 14:27:25,Black,Nick,8th,Mrs. Gielata,Yes,
+10/31/2024 14:27:28,Kunjan,Vishnu,8th,Mrs. Gielata,Yes,
+10/31/2024 14:28:46,Baumcratz,Kurt,8th,Mrs. Speakman,Yes,
+10/31/2024 14:28:49,Kavals,Tenley,8th,Mr. Bacco,Yes,
+10/31/2024 14:28:50,Makowski,Michael,8th,Mrs. Gielata,Yes,
+10/31/2024 14:29:20,LacaRIA,nathan,8th,Mrs. Goedert,Yes,
+10/31/2024 14:29:22,Vezio ,Gio ,8th,Mrs. Gielata,Yes,
+10/31/2024 14:29:33,enas,gavin,8th,Mrs. Goedert,Yes,
+10/31/2024 14:29:41,Moore,Elizabeth,8th,Mr. Popovic,Yes,
+10/31/2024 14:29:42,Shetty,Vihaan,8th,Mrs. Goedert,Yes,
+10/31/2024 14:30:01,Billings,Alianna,8th,Mr. Bacco,Yes,
+10/31/2024 14:30:35,mckenzie,nathan,8th,Mrs. Speakman,Yes,
+10/31/2024 14:30:47,Renk,Robby,8th,Mr. Bacco,Yes,
+10/31/2024 14:30:55,Spalla,Marco,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 14:31:07,Chaudhary,Rohaan,8th,Mr. Bacco,Yes,
+10/31/2024 14:31:13,opaska,alexis,8th,Mrs. Goedert,Yes,
+10/31/2024 14:31:20,Nico,Kostuch,8th,Mrs. Balta,Yes,
+10/31/2024 14:31:55,Allan,Lauren,8th,Mr. Bacco,Yes,
+10/31/2024 14:31:59,Chang,Max,8th,Mr. Becker,Yes,
+10/31/2024 14:33:09,Boyle,Braeden,8th,Mrs. Gielata,Yes,
+10/31/2024 14:33:28,Khilji,JASIM,8th,Mrs. Balta,Yes,
+10/31/2024 14:33:38,Leyh,Mason,8th,Mrs. Gielata,Yes,
+10/31/2024 14:33:52,Paranjpe,Sohum,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 14:34:54,Armitage,Kingston,7th,Mrs. Sisinni,Yes,
+10/31/2024 14:35:46,Lakhani,Meet,8th,Mr. Litwinovich,Yes,
+10/31/2024 14:35:52,Barak,James,8th,Mr. Bacco,Yes,
+10/31/2024 14:35:52,Kuglar,Lainey,8th,Mr. Litwinovich,Yes,
+10/31/2024 14:36:00,Mitchell,Dalton,8th,Mr. Philipp,Yes,
+10/31/2024 14:36:22,Pulice,Ethan,8th,Mrs. Goedert,Yes,
+10/31/2024 14:36:23,Schmitz,Colin,8th,Mr. Litwinovich,Yes,
+10/31/2024 14:36:28,Garbutt,Kai,8th,Mr. Bacco,Yes,
+10/31/2024 14:36:34,Hoskins,Jonathan,8th,Mrs. D. Hoffman (8th grade),Yes,
+10/31/2024 14:36:48,Saeed,Yaseen,8th,Mr. Becker,Yes,
+10/31/2024 14:37:07,Patel,Rishi,8th,Mr. Becker,Yes,
+10/31/2024 14:38:26,Chandolu,Vilok,8th,Mr. Becker,Yes,
+10/31/2024 14:38:28,Kalinkou,Fedor,8th,Mr. Becker,Yes,
+10/31/2024 14:40:16,Vennare-Starr,Kyla,8th,Mrs. Gielata,Yes,
+10/31/2024 14:45:54,Childs,Carter,8th,Mr. Litwinovich,Yes,
+11/1/2024 12:14:28,the,jameson,8th,Mrs. Speakman,Yes,
+11/3/2024 9:18:57,Jameson,Strider,8th,Mr. Litwinovich,Yes,
+11/3/2024 21:11:07,Yahya,Rayann,8th,Mr. Taylor,Yes,
+11/3/2024 21:13:19,D'Angelo,Anna,8th,Mr. Popovic,Yes,
+11/3/2024 21:31:39,Alkamel,Abrar,8th,Mrs. Speakman,Yes,
+11/4/2024 11:17:38,Stoeckle,Rylee,7th,Mrs. Austin,Yes,
+11/4/2024 11:17:53,Lopez,Niccolo,7th,Mrs. Austin,Yes,
+11/4/2024 11:17:58,Restivo,Lauren,7th,Mrs. Austin,Yes,
+11/4/2024 11:19:15,Kime,Anson,7th,Mrs. Austin,Yes,
+11/4/2024 11:20:26,Weiss Strausburg,Hunter,7th,Mrs. Austin,Yes,
+11/4/2024 11:26:23,sabatini,roman,7th,Mrs. Shimkoski,Yes,
+11/4/2024 11:27:17,Lane,Chloe ,7th,Mrs. Shimkoski,Yes,
+11/4/2024 11:28:12,Washinski,Charles,7th,Mrs. Shimkoski,Yes,
+11/4/2024 13:06:07,Patel,Avi,8th,Mrs. D. Hoffman (8th grade),Yes,
+11/4/2024 13:08:57,Jose ,Akansha ,8th,Mr. Becker,Yes,
+11/4/2024 13:13:07,Polasky,Liam,8th,Mrs. Gielata,Yes,
+11/4/2024 13:13:19,Kaercher,Easton,8th,Mr. Philipp,Yes,
+11/4/2024 13:13:19,Rectenwald,Tyce,8th,Mrs. Goedert,Yes,
+11/4/2024 13:13:46,Dye,Ahana,8th,Mrs. D. Hoffman (8th grade),Yes,
+11/4/2024 13:19:51,Walsh ,Michael ,8th,Mrs. Goedert,Yes,
+11/4/2024 14:42:29,Pinami,Evangeline,8th,Mr. Litwinovich,Yes,
+11/5/2024 8:01:01,Froelich,Lucy ,8th,Mr. Litwinovich,Yes,
+11/5/2024 8:02:09,Astorino,Easton,8th,Mr. Litwinovich,Yes,
+11/5/2024 8:08:07,Saravanan,Rithvik,8th,Mrs. Gielata,Yes,
+11/11/2024 10:25:52,patton,callan,8th,Mr. Bacco,Yes,
+11/11/2024 13:35:39,Buragadda,Anirudh,7th,"Mr. Oney, Mr. Richman",Yes,
