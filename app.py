@@ -5,98 +5,60 @@ from flask import request, Flask, render_template, send_file
 app = Flask(__name__)
 
 def mainFunction(inputFile):
-    # Dictionary to track teacher assignments
     teacher_assignments = {}
-
-    # Maximum and minimum number of students per teacher
     MAX_STUDENTS_PER_TEACHER = 11
     MIN_STUDENTS_PER_TEACHER = 7
-
-    # List to store final assignments
     final_assignments = []
+    students = []
 
-    # Open the CSV file
+    # Read all students first (excluding "yes" students)
     with open(inputFile, "r") as file:
         reader = csv.reader(file)
-        index = 0  # To track rows
-
+        header = next(reader, None)
         for row in reader:
-            # Skip the header row
-            if index == 0:
-                index += 1
-                continue
-
-            # Read row data
+            if len(row) < 7:
+                continue  # skip incomplete rows
             timestamp, last_name, first_name, grade, homeroom, yes_or_no, all_teachers = row[:7]
-
-            # Skip students with "Yes" in yes_or_no
             if yes_or_no.strip().lower() == "yes":
                 continue
-
-            # Split teacher preferences into a list
             teacher_preferences = [teacher.strip() for teacher in all_teachers.split(",") if teacher.strip()]
+            students.append({
+                "first_name": first_name,
+                "last_name": last_name,
+                "grade": grade,
+                "preferences": teacher_preferences
+            })
 
-            # Try to assign the student to a preferred teacher randomly
-            assigned_teacher = None
-            random.shuffle(teacher_preferences)
-            for teacher in teacher_preferences:
-                if teacher not in teacher_assignments:
-                    teacher_assignments[teacher] = 0
+    # Shuffle students to randomize assignment order
+    random.shuffle(students)
 
-                if teacher_assignments[teacher] < MAX_STUDENTS_PER_TEACHER:
-                    assigned_teacher = teacher
-                    teacher_assignments[assigned_teacher] += 1
-                    break
+    for student in students:
+        teacher_preferences = student["preferences"]
+        assigned_teacher = None
 
-            # If no preferred teachers are available, assign to a teacher with fewer than 11 students and at least 7
-            if not assigned_teacher:
-                least_loaded_teacher = None
-                least_students = MAX_STUDENTS_PER_TEACHER + 1
+        # Try to assign the student to a preferred teacher randomly
+        random.shuffle(teacher_preferences)
+        for teacher in teacher_preferences:
+            if teacher not in teacher_assignments:
+                teacher_assignments[teacher] = 0
+            if teacher_assignments[teacher] < MAX_STUDENTS_PER_TEACHER:
+                assigned_teacher = teacher
+                teacher_assignments[assigned_teacher] += 1
+                break
 
-                # Find a teacher with space and with at least 7 students
-                for teacher, count in teacher_assignments.items():
-                    if count <= 3:
-                        least_loaded_teacher = teacher
-                        break
-                    if count < least_students:
-                        least_loaded_teacher = teacher
-                        least_students = count
+        # If no preferred teachers are available, assign to a teacher with space
+        if not assigned_teacher:
+            # Find a teacher with space
+            possible_teachers = [t for t, count in teacher_assignments.items() if count < MAX_STUDENTS_PER_TEACHER]
+            if possible_teachers:
+                assigned_teacher = min(possible_teachers, key=lambda t: teacher_assignments[t])
+                teacher_assignments[assigned_teacher] += 1
+            else:
+                # If no teacher meets the requirement, assign to a default teacher
+                assigned_teacher = "Default Teacher"
+                teacher_assignments[assigned_teacher] = teacher_assignments.get(assigned_teacher, 0) + 1
 
-                if least_loaded_teacher:
-                    assigned_teacher = least_loaded_teacher
-                    teacher_assignments[assigned_teacher] += 1
-                else:
-                    # If no teacher meets the requirement, assign to any teacher with the least number of students
-                    least_loaded_teacher = "Default Teacher"
-                    teacher_assignments[least_loaded_teacher] = 0
-                    assigned_teacher = least_loaded_teacher
-                    teacher_assignments[assigned_teacher] += 1
-
-            # if any of the teachers do not have any students assigned, remove students from the most loaded teacher and assign to the teacher
-
-            # equalize the number of students assigned to each teacher by moving students from the most loaded teacher to the least loaded teacher
-            while max(teacher_assignments.values()) - min(teacher_assignments.values()) > 1:
-                most_loaded_teacher = max(teacher_assignments, key=teacher_assignments.get)
-                least_loaded_teacher = min(teacher_assignments, key=teacher_assignments.get)
-                teacher_assignments[most_loaded_teacher] -= 1
-                teacher_assignments[least_loaded_teacher] += 1
-
-            # Add the student to the final assignments list
-            final_assignments.append((first_name, last_name, grade, assigned_teacher))
-        
-        # if the student does not have any teacher preference, assign to a teacher with fewer than 7 students
-        if len(teacher_preferences) == 0:
-            least_loaded_teacher = None
-            least_students = MAX_STUDENTS_PER_TEACHER + 1
-
-            # Find a teacher who has less than 7 students
-            for teacher, count in teacher_assignments.items():
-                if count < MIN_STUDENTS_PER_TEACHER:
-                    least_loaded_teacher = teacher
-                    break
-                if count < least_students:
-                    least_loaded_teacher = teacher
-                    least_students = count
+        final_assignments.append((student["first_name"], student["last_name"], student["grade"], assigned_teacher))
 
     # Print a formatted table of assignments
     print("\nFinal Student Assignments:")
@@ -112,51 +74,31 @@ def mainFunction(inputFile):
     for teacher, count in teacher_assignments.items():
         print(f"{teacher:<20}{count:<20}")
 
-    # format the final assignments into a .csv file
-
-    # Create a new CSV file
+    # Write final assignments to a CSV
     output_file = '/tmp/final_assignments.csv'
     with open(output_file, "w", newline="") as file:
         writer = csv.writer(file)
-
-        # Write the header row
         writer.writerow(["First Name", "Last Name", "Grade", "Advisor Name"])
-
-        # Write the data rows
         for first_name, last_name, grade, assigned_teacher in final_assignments:
             writer.writerow([first_name, last_name, grade, assigned_teacher])
 
     return output_file
 
-
 @app.route('/')
 def mainPage():
-    # Renders the HTML form
     return render_template('index.html')
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
-    # Check if a file was uploaded
     if 'file' not in request.files:
-        return print ("No file part"), 400
-
+        return "No file part", 400
     file = request.files['file']
     if file.filename == '':
-        return print ("No file selected"), 400
-
-    # Save the uploaded file to a temporary location
+        return "No file selected", 400
     temp_file = '/tmp/uploaded_file.csv'
     file.save(temp_file)
-
-    # Call the main function with the uploaded file
     result = mainFunction(temp_file)
-
-    # download url 
-    downLoadUrl = f"<a href='{result}' download='finalOutput'>here</a>"
-
-
-    return send_file('/tmp/final_assignments.csv', as_attachment=True)
-
+    return send_file(result, as_attachment=True)
 
 if __name__ == "__main__":
     app.run(debug=True)
